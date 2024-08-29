@@ -41,14 +41,12 @@ app.include_router(google_authentication.router, prefix="")
 if __name__ == "__main__":
     import uvicorn, socket; hostname = socket.gethostname()
     if hostname == 'node5':
-        # Run program using certificate
-
-        path_ssl_keyfile = os.path.join(os.getcwd(), "app/certificates/privkey.pem")
-        path_ssl_certificate = os.path.join(os.getcwd(), "app/certificates/fullchain.pem")
+        # Correct paths to SSL certificates relative to /app directory
+        path_ssl_keyfile = os.path.join(os.getcwd(), "certificates/privkey.pem")
+        path_ssl_certificate = os.path.join(os.getcwd(), "certificates/fullchain.pem")
         
-        ssl_keyfile = open(path_ssl_keyfile, 'r').read()
-        ssl_certificate = open(path_ssl_certificate, 'r').read()
-
-        uvicorn.run(app, host="0.0.0.0", port=443, ssl_keyfile=ssl_keyfile, ssl_certfile=ssl_certificate)
+        # Run Uvicorn with SSL certificates
+        uvicorn.run(app, host="0.0.0.0", port=443, ssl_keyfile=path_ssl_keyfile, ssl_certfile=path_ssl_certificate)
     else:
-        uvicorn.run(app, host="0.0.0.0", port=80, )
+        # Run without SSL
+        uvicorn.run(app, host="0.0.0.0", port=80)
