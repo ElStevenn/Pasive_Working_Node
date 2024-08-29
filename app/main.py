@@ -42,6 +42,8 @@ if __name__ == "__main__":
     import uvicorn, socket; hostname = socket.gethostname()
     if hostname == 'node5':
         # Run program using certificate
+        ssl_keyfile = None
+        ssl_certificates = None
         uvicorn.run(app, host="0.0.0.0", port=443, ssl_keyfile= "/etc/letsencrypt/live/pauservices.top/privkey.pem", ssl_certfile="/etc/letsencrypt/live/pauservices.top/fullchain.pem")
     else:
         uvicorn.run(app, host="0.0.0.0", port=80, )
