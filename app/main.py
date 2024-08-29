@@ -42,10 +42,9 @@ if __name__ == "__main__":
     import uvicorn, socket; hostname = socket.gethostname()
     if hostname == 'node5':
         # Correct paths to SSL certificates relative to /app directory
-        path_ssl_keyfile = os.path.join(os.getcwd(), "certificates/privkey.pem"); print("path_ssl_keyfile ->", path_ssl_keyfile)
-        path_ssl_certificate = os.path.join(os.getcwd(), "certificates/fullchain.pem"); print("path_ssl_certificate -> ", path_ssl_certificate)
-        
-
+        path_ssl_keyfile = "/home/ubuntu/Pasive_Working_Node/app/certificates/privkey.pem"
+        path_ssl_certificate = "/home/ubuntu/Pasive_Working_Node/app/certificates/fullchain.pem"
+    
 
         # Run Uvicorn with SSL certificates
         uvicorn.run(app, host="0.0.0.0", port=443, ssl_keyfile=path_ssl_keyfile, ssl_certfile=path_ssl_certificate)
