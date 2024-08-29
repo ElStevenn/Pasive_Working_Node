@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/4160/4160718.png">
+    <script src="mini_frontend/scripts/script2.js"></script>
+    <title>Economic Calendar - The Wacky Market Watch</title>
+    <style>
+        body {
+            font-family: 'Comic Sans MS', sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+            background-color: #121212;
+            color: #ffffff; 
+            overflow-y: auto;
+        }
+
+        h1 {
+            font-size: 4em;
+            color: #76ff03; 
+            margin-bottom: 20px;
+            text-shadow: 3px 3px #388e3c; 
+            animation: bounce 2s infinite;
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-20px); }
+        }
+
+        .calendar-section {
+            display: flex;
+            justify-content: flex-start;
+            align-items: flex-start;
+            gap: 20px; 
+            margin: 30px auto;
+            max-width: 80%; 
+        }
+
+        .calendar-table {
+            width: 70%; 
+            border-collapse: collapse;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+            position: relative; 
+        }
+
+        .calendar-table th, .calendar-table td {
+            padding: 10px;
+            border: 1px solid #424242; 
+            background-color: #1c1c1c;
+            text-align: center;
+            font-size: 1.2em;
+            color: #ffffff;
+            position: relative;
+        }
+
+        .calendar-table th {
+            background-color: #00e676; 
+            color: #000000;
+            text-shadow: 1px 1px #004d40; 
+        }
+
+        .bell-icon {
+            position: absolute;  
+            left: 3px;        
+            top: 50%;         
+            transform: translateY(-50%); 
+            width: 20px;         
+            height: 20px;      
+            display: none;   
+            cursor: pointer;  
+        }
+
+        .calendar-table tr:hover .bell-icon {
+            display: block;     
+        }
+
+        .bell-icon-container {
+            position: relative;  
+            display: inline-block;
+        }
+
+        .bell-icon-container .tooltip {
+            visibility: hidden;  
+            background-color: #333;  
+            color: #fff;  
+            text-align: center; 
+            font-size: smaller;
+            padding: 3px 5px;  
+            border-radius: 2px;  
+            position: absolute;  
+            top: -35px; 
+            left: -4px; 
+            /* right: 0px;   */
+            z-index: 1;  
+            opacity: 0;  
+            transition: opacity 0.3s;  
+        }
+
+        .bell-icon-container:hover .tooltip {
+            visibility: visible;  
+            opacity: 1;  
+        }
+
+        .create-alert {
+            visibility: hidden;
+            position: absolute;
+            background-color: #f4f4f4; 
+            color: #000;
+            padding: 20px;
+            border-radius: 8px;
+            z-index: 2;
+            opacity: 0;
+            transition: opacity 0.3s;
+            top: 30px;
+            right: 0;
+            width: 250px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            border: 1px solid #ccc;
+        }
+
+        .create-alert h4 {
+            margin-top: 0;
+            font-size: 1.1em;
+            font-weight: bold;
+        }
+
+        .create-alert p, .create-alert label {
+            font-size: 0.9em;
+            margin: 8px 0;
+        }
+
+        .create-alert input[type="radio"], .create-alert input[type="checkbox"] {
+            margin-right: 5px;
+        }
+
+        .create-alert .create-button {
+            background-color: #ff9800; 
+            color: #fff;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+
+        .create-alert .create-button:hover {
+            background-color: #e68900;
+        }
+
+        .create-alert a {
+            display: block;
+            margin-top: 10px;
+            font-size: 0.8em;
+            text-decoration: none;
+            color: #0066cc;
+        }
+
+
+        .meme {
+            width: 100%;
+            height: auto;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+            object-fit: cover;
+        }
+
+        .meme:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 40px rgba(0, 0, 0, 0.7);
+        }
+
+        .widget-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin: 40px 0;
+        }
+
+        .widget {
+            background: #424242; /* Dark grey background */
+            padding: 20px;
+            border-radius: 20px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+            color: #ffffff;
+            text-align: center;
+            transition: transform 0.3s ease;
+            flex: 1;
+            max-width: 45%;
+            position: relative;
+        }
+
+        .widget:hover {
+            transform: rotate(-2deg) scale(1.05);
+            background-color: #616161; /* Lighter grey on hover */
+        }
+
+        .widget img {
+            max-width: 100px;
+            height: auto;
+            margin-bottom: 15px;
+        }
+
+        .fun-fact-container {
+            margin-top: 20px;
+            padding: 20px;
+            background-color: #333333; /* Darker background */
+            border-radius: 20px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+            font-size: 1.5em;
+            color: #ffffff;
+            position: relative;
+            z-index: 1;
+        }
+
+        .fun-fact-button {
+            margin-top: 10px;
+            padding: 10px 20px;
+            font-size: 1.2em;
+            color: #ffffff;
+            background-color: #4caf50; /* Green button */
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            transition: transform 0.3s ease, background-color 0.3s ease;
+            z-index: 1;
+        }
+
+        .fun-fact-button:hover {
+            transform: scale(1.1);
+            background-color: #388e3c; /* Darker green on hover */
+        }
+
+        .widget-background {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url('https://i.pinimg.com/736x/f0/9a/7c/f09a7cfebc9969646bea01605976e8b3.jpg'); 
+            background-size: cover;
+            background-position: center;
+            border-radius: 20px;
+            opacity: 0.2;
+            z-index: 0;
+        }
+
+        .message-container {
+            margin-top: 50px;
+            padding: 20px;
+            background-color: #333333; /* Darker background */
+            border-radius: 20px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+            animation: shake 1s infinite alternate;
+        }
+
+        @keyframes shake {
+            0% { transform: translateX(0); }
+            25% { transform: translateX(-5px) rotate(-1deg); }
+            50% { transform: translateX(5px) rotate(1deg); }
+            75% { transform: translateX(-5px) rotate(-1deg); }
+            100% { transform: translateX(0); }
+        }
+
+        .message-container h2 {
+            font-size: 2.5em;
+            color: #00e676; /* Bright green color */
+            text-shadow: 1px 1px #004d40; /* Dark teal shadow */
+        }
+
+        .message-container p {
+            font-size: 1.5em;
+            color: #ffffff;
+            margin: 10px 0;
+        }
+        .spinner {
+            border: 8px solid #f3f3f3; /* Light grey */
+            border-top: 8px solid #00e676; /* Green */
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 2s linear infinite;
+            margin: 20px auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .loading-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100px;
+            width: 100%;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>The Wacky Economic Calendar</h1>
+
+    <div class="calendar-section">
+        <!--  Calendar Table here -->
+        <table class="calendar-table">
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Time</th>
+                    <th>Zone</th>
+                    <th>Currency</th>
+                    <th>Importance</th>
+                    <th>Event</th>
+                    <th>Actual</th>
+                    <th>Previous</th>
+                </tr>
+            </thead>
+            <!-- Loading spinner should be outside of tbody -->
+            <div id="loading" class="loading-container">
+                <div class="spinner"></div>
+            </div>
+            <tbody id="calendar-content">
+                <!-- Rows will be appended here by JavaScript -->
+            </tbody>
+        </table>
+        
+        <div class="meme-container", id="meme-container-div">
+            <img src="https://mediaproxy.salon.com/width/380/https://media2.salon.com/2018/08/squidward.jpg" alt="Funny Meme" class="meme">
+        </div>
+    </div>
+
+    <div class="widget-container" style="background-image:'https://img.freepik.com/free-photo/abstract-psychedelic-papercut-background_23-2149303018.jpg';">
+        <div class="widget" onclick="quickMarketTrends()">
+            <img src="https://imgflip.com/s/meme/Leonardo-Dicaprio-Cheers.jpg" alt="Widget Icon">
+            <p>Quick Market Trends</p>
+            <p>Get the hottest market updates, fresh out of the oven!</p>
+        </div>
+        <div class="widget" onclick="instantReactionGauge()">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP3dRX8mANz_DDCgSh3A0GvKx2Y61cTJt1_PSNIs9yQfyRhAgruLNsOHCHYX0N8I8wLx0&usqp=CAU" alt="Widget Icon">
+            <p>Instant Reaction Gauge</p>
+            <p>See how investors react before they even know what happened!</p>
+        </div>
+        <div class="widget">
+            <div class="widget-background"></div>
+            <img src="https://i.insider.com/62ac9116384b540018417d4c?width=1200&format=jpeg" alt="Widget Icon">
+            <p>Fun Fact Generator</p>
+            <button class="fun-fact-button" onclick="generateFunFact()">Generate Fun Fact!</button>
+            <div id="fun-fact" class="fun-fact-container">Click the button to get a fun fact!</div>
+        </div>
+        <div class="widget" onclick="randomStockPicker()">
+            <img src="https://i.pinimg.com/236x/75/fc/c6/75fcc6b11ec2e2a2a6b7163e676c2764.jpg" alt="Widget Icon">
+            <p>Random Stock Picker</p>
+            <p>Feeling lucky? Let our widget pick your next big stock!</p>
+        </div>
+    </div>
+
+    <div class="message-container">
+        <h2>Market Tips: Fun Edition!</h2>
+        <p>If the market gives you lemons, trade them for stocks!</p>
+        <p>Remember, even the bear market loves a good joke!</p>
+    </div>
+
+</body>
+</html>

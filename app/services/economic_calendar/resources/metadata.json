@@ -1,0 +1,10 @@
+{
+    "node_description": "Add description here",
+    "all_events_list_keyword": ["CPI", "PPI", "GDP", "FOMC", "NFP", "ISM", "CFTC", "Retail Sales", "PMI", "Unemployment Rate", "Interest Rate Decision", "Jobless Claims", "Durable Goods Orders", "Trade Balance", "Housing Starts", "Consumer Confidence", "Industrial Production", "Manufacturing PMI", "Services PMI", "Federal Budget", "Existing Home Sales", "New Home Sales", "Construction Spending", "Core Inflation Rate", "Factory Orders", "Labor Force Participation Rate", "Personal Income", "Personal Spending", "Core PCE Price Index", "Initial Jobless Claims", "Continuing Jobless Claims", "Treasury Budget", "Import Price Index", "Export Price Index", "Producer Prices", "Capacity Utilization", "Current Account Balance"],
+    "economic_calendar_countries": [],
+    "auto_trader_bot": {
+        "status": "stopped",
+        "timezone": "Europe/Amsterdam",
+        "current_tasks": {} 
+    }
+}

@@ -1,0 +1,61 @@
+,id,date,time,zone,currency,importance,event,actual,forecast,previous
+49,479915,16/08/2023,05:00,new zealand,NZD,high,RBNZ Interest Rate Decision,5.50%,5.50%,5.50%
+106,480749,05/09/2023,07:30,australia,AUD,high,RBA Interest Rate Decision  (Sep),4.10%,4.10%,4.10%
+112,481261,06/09/2023,17:00,canada,CAD,high,BoC Interest Rate Decision,5.00%,5.00%,5.00%
+129,481406,14/09/2023,15:15,euro zone,EUR,high,ECB Interest Rate Decision  (Sep),4.50%,4.25%,4.25%
+148,459929,20/09/2023,21:00,united states,USD,high,Fed Interest Rate Decision,5.50%,5.50%,5.50%
+151,481813,21/09/2023,10:30,switzerland,CHF,high,SNB Interest Rate Decision  (Q3),1.75%,2.00%,1.75%
+152,481836,21/09/2023,14:00,united kingdom,GBP,high,BoE Interest Rate Decision  (Sep),5.25%,5.50%,5.25%
+157,479816,22/09/2023,05:52,japan,JPY,high,BoJ Interest Rate Decision,-0.10%,-0.10%,-0.10%
+225,482554,03/10/2023,06:30,australia,AUD,high,RBA Interest Rate Decision  (Oct),4.10%,4.10%,4.10%
+230,483015,04/10/2023,04:00,new zealand,NZD,high,RBNZ Interest Rate Decision,5.50%,5.50%,5.50%
+293,484523,25/10/2023,17:00,canada,CAD,high,BoC Interest Rate Decision,5.00%,5.00%,5.00%
+298,484131,26/10/2023,15:15,euro zone,EUR,high,ECB Interest Rate Decision  (Oct),4.50%,4.50%,4.50%
+311,484819,31/10/2023,06:30,japan,JPY,high,BoJ Interest Rate Decision,-0.10%,-0.10%,-0.10%
+333,459930,01/11/2023,21:00,united states,USD,high,Fed Interest Rate Decision,5.50%,5.50%,5.50%
+341,483687,02/11/2023,15:00,united kingdom,GBP,high,BoE Interest Rate Decision  (Nov),5.25%,5.25%,5.25%
+354,484343,07/11/2023,06:30,australia,AUD,high,RBA Interest Rate Decision  (Nov),4.35%,4.35%,4.10%
+596,484344,29/11/2023,04:00,new zealand,NZD,high,RBNZ Interest Rate Decision,5.50%,5.50%,5.50%
+618,486819,05/12/2023,06:30,australia,AUD,high,RBA Interest Rate Decision  (Dec),4.35%,4.35%,4.35%
+625,487607,06/12/2023,18:00,canada,CAD,high,BoC Interest Rate Decision,5.00%,5.00%,5.00%
+655,459931,13/12/2023,22:00,united states,USD,high,Fed Interest Rate Decision,5.50%,5.50%,5.50%
+657,487771,14/12/2023,11:30,switzerland,CHF,high,SNB Interest Rate Decision  (Q4),1.75%,1.75%,1.75%
+658,487816,14/12/2023,15:00,united kingdom,GBP,high,BoE Interest Rate Decision  (Dec),5.25%,5.25%,5.25%
+660,487823,14/12/2023,16:15,euro zone,EUR,high,ECB Interest Rate Decision  (Dec),4.50%,4.50%,4.50%
+672,488915,19/12/2023,05:49,japan,JPY,high,BoJ Interest Rate Decision,-0.10%,-0.10%,-0.10%
+990,490104,23/01/2024,06:00,japan,JPY,high,BoJ Interest Rate Decision,-0.10%,-0.10%,-0.10%
+994,490096,24/01/2024,17:45,canada,CAD,high,BoC Interest Rate Decision,5.00%,5.00%,5.00%
+1001,490075,25/01/2024,16:15,euro zone,EUR,high,ECB Interest Rate Decision  (Jan),4.50%,4.50%,4.50%
+1020,472443,31/01/2024,22:00,united states,USD,high,Fed Interest Rate Decision,5.50%,5.50%,5.50%
+1026,490083,01/02/2024,15:00,united kingdom,GBP,high,BoE Interest Rate Decision  (Jan),5.25%,5.25%,5.25%
+1044,488857,06/02/2024,06:30,australia,AUD,high,RBA Interest Rate Decision  (Feb),4.35%,4.35%,4.35%
+1164,490119,28/02/2024,04:00,new zealand,NZD,high,RBNZ Interest Rate Decision,5.50%,5.50%,5.50%
+1782,490097,06/03/2024,17:45,canada,CAD,high,BoC Interest Rate Decision,5.00%,5.00%,5.00%
+1787,490076,07/03/2024,16:15,euro zone,EUR,high,ECB Interest Rate Decision  (Mar),4.50%,4.50%,4.50%
+1827,490112,19/03/2024,06:30,australia,AUD,high,RBA Interest Rate Decision  (Mar),4.35%,4.35%,4.35%
+1828,490105,19/03/2024,06:35,japan,JPY,high,BoJ Interest Rate Decision,0.10%,0.10%,-0.10%
+1835,472444,20/03/2024,21:00,united states,USD,high,Fed Interest Rate Decision,5.50%,5.50%,5.50%
+1840,490091,21/03/2024,11:30,switzerland,CHF,high,SNB Interest Rate Decision  (Q1),1.50%,1.75%,1.75%
+1841,490084,21/03/2024,15:00,united kingdom,GBP,high,BoE Interest Rate Decision  (Mar),5.25%,5.25%,5.25%
+2067,490120,10/04/2024,05:00,new zealand,NZD,high,RBNZ Interest Rate Decision,5.50%,5.50%,5.50%
+2071,490098,10/04/2024,16:45,canada,CAD,high,BoC Interest Rate Decision,5.00%,5.00%,5.00%
+2099,490077,11/04/2024,15:15,euro zone,EUR,high,ECB Interest Rate Decision  (Apr),4.50%,4.50%,4.50%
+2156,490106,26/04/2024,06:00,japan,JPY,high,BoJ Interest Rate Decision,0.10%,0.10%,0.10%
+2255,472445,01/05/2024,21:00,united states,USD,high,Fed Interest Rate Decision,5.50%,5.50%,5.50%
+2305,490113,07/05/2024,07:30,australia,AUD,high,RBA Interest Rate Decision  (May),4.35%,4.35%,4.35%
+2324,490085,09/05/2024,14:00,united kingdom,GBP,high,BoE Interest Rate Decision  (Apr),5.25%,5.25%,5.25%
+2344,490121,22/05/2024,05:00,new zealand,NZD,high,RBNZ Interest Rate Decision,5.50%,5.50%,5.50%
+2371,490099,05/06/2024,16:45,canada,CAD,high,BoC Interest Rate Decision,4.75%,4.75%,5.00%
+2376,490078,06/06/2024,15:15,euro zone,EUR,high,ECB Interest Rate Decision  (Jun),4.25%,4.25%,4.50%
+3396,472451,12/06/2024,21:00,united states,USD,high,Fed Interest Rate Decision,5.50%,5.50%,5.50%
+3401,490107,14/06/2024,06:25,japan,JPY,high,BoJ Interest Rate Decision,0.10%,0.10%,0.10%
+3402,490114,18/06/2024,07:30,australia,AUD,high,RBA Interest Rate Decision  (Jun),4.35%,4.35%,4.35%
+3407,490092,20/06/2024,10:30,switzerland,CHF,high,SNB Interest Rate Decision  (Q2),1.25%,1.50%,1.50%
+3408,490086,20/06/2024,14:00,united kingdom,GBP,high,BoE Interest Rate Decision  (Jun),5.25%,5.25%,5.25%
+3447,490122,10/07/2024,05:00,new zealand,NZD,high,RBNZ Interest Rate Decision,5.50%,5.50%,5.50%
+3467,490079,18/07/2024,15:15,euro zone,EUR,high,ECB Interest Rate Decision  (Jul),4.25%,4.25%,4.25%
+3474,490100,24/07/2024,16:45,canada,CAD,high,BoC Interest Rate Decision,4.50%,4.50%,4.75%
+3488,490108,31/07/2024,07:00,japan,JPY,high,BoJ Interest Rate Decision,0.25%,0.10%,0.10%
+3494,472452,31/07/2024,21:00,united states,USD,high,Fed Interest Rate Decision,5.50%,5.50%,5.50%
+3496,490087,01/08/2024,14:00,united kingdom,GBP,high,BoE Interest Rate Decision  (Aug),5.00%,5.00%,5.25%
+3507,490115,06/08/2024,07:30,australia,AUD,high,RBA Interest Rate Decision  (Aug),4.35%,4.35%,4.35%

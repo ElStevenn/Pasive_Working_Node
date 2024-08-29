@@ -1,0 +1,15 @@
+{
+    "description": "This node is responsible of send notifications via email, interactuate with your personal auto trading bot, give signals to long-mid term among other things",
+    "today_analysis": "The Fear and Greed index, a psychological market indicator, has dropped below its 30-day moving average, signaling a potential selling opportunity for a mid-to-long term investment perspectives. The 30-day standard deviation for Fear and Greed index is 18.33, offering a measure of market volatility. Similar volatility can be observed in Bitcoin, with a 30-day standard deviation of 3896.46. Meanwhile, the Fear and Greed actual value stands at 31 indicating a moderate level of investor sentiment. Although these indicators are only a part of a comprehensive investment strategy, they could be useful in making informed market decisions.",
+    "bot_data": {
+        "status": "stopped",
+        "execute_at": "1:01",
+        "timezone": "Europe/Amsterdam",
+        "bot_id": ""
+    },
+    "levels": {
+        "1": {},
+        "2": {},
+        "3": {}
+    }
+}

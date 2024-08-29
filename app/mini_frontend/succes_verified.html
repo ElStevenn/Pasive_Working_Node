@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/4160/4160718.png">
+    <title>Image Gallery - Fun and Quirky</title>
+    <style>
+        body {
+            font-family: 'Comic Sans MS', sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+            background-color: #ffeb3b; /* Bright yellow background */
+            color: #000;
+            overflow-y: auto;
+        }
+
+        h1 {
+            font-size: 4em;
+            color: #ff69b4; /* Hot pink color */
+            margin-bottom: 20px;
+            text-shadow: 3px 3px #ff4500; /* Red shadow */
+            animation: bounce 2s infinite;
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-20px); }
+        }
+
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .gallery img {
+            max-width: 250px;
+            height: auto;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .gallery img:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 40px rgba(255, 105, 180, 0.7);
+        }
+
+        .message-container {
+            margin-top: 50px;
+            padding: 20px;
+            background-color: #f0f0f0;
+            border-radius: 20px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+            animation: shake 1s infinite alternate;
+        }
+
+        @keyframes shake {
+            0% { transform: translateX(0); }
+            25% { transform: translateX(-10px) rotate(-2deg); }
+            50% { transform: translateX(10px) rotate(2deg); }
+            75% { transform: translateX(-10px) rotate(-2deg); }
+            100% { transform: translateX(0); }
+        }
+
+        .message-container h2 {
+            font-size: 2.5em;
+            color: #32cd32; /* Lime green color */
+            text-shadow: 2px 2px #ffa500; /* Orange shadow */
+        }
+
+        .message-container p {
+            font-size: 1.5em;
+            color: #000;
+            margin: 10px 0;
+        }
+
+        .home-button {
+            margin-top: 40px;
+            padding: 15px 30px;
+            font-size: 1.5em;
+            color: #fff;
+            background-color: #32cd32; /* Lime green */
+            border: none;
+            border-radius: 15px;
+            cursor: pointer;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            transition: transform 0.3s ease, background-color 0.3s ease;
+        }
+
+        .home-button:hover {
+            transform: scale(1.1);
+            background-color: #228b22; /* Darker green on hover */
+        }
+
+        .home-button img {
+            width: 24px;
+            height: 24px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Thanks for your confidence <b>{{ name }}</b>!</h1>
+
+    <div class="gallery">
+        <img src="https://ih1.redbubble.net/image.511503405.8255/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg" alt="Image 1">
+        <img src="https://ih1.redbubble.net/image.511503405.8255/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg" alt="Image 1">
+        <img src="https://ih1.redbubble.net/image.511503405.8255/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg" alt="Image 1">
+        <img src="https://ih1.redbubble.net/image.511503405.8255/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg" alt="Image 1">
+        <img src="https://ih1.redbubble.net/image.511503405.8255/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg" alt="Image 1">
+        <img src="https://ih1.redbubble.net/image.511503405.8255/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg" alt="Image 1">
+    </div>
+
+    <div class="message-container">
+        <h2>Authentication Success for {{ email }}</h2>
+        <p>Your authentication was so smooth, even butter is jealous.</p>
+        <p>Now, let's get to the fun stuff—enjoy browsing these quirky images!</p>
+    </div>
+
+    <a href="/" class="home-button">
+        <img src="https://img.icons8.com/fluent/48/000000/home.png" alt="Home Icon">
+        Go back to home
+    </a>
+
+</body>
+</html>

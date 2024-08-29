@@ -1,0 +1,799 @@
+,id,date,time,zone,currency,importance,event,actual,forecast,previous
+0,505052,28/08/2024,04:30,australia,AUD,medium,Construction Work Done (QoQ)  (Q2),0.1%,0.8%,-2.0%
+1,505051,28/08/2024,04:30,australia,AUD,low,Monthly CPI Indicator (YoY)  (Jul),3.50%,3.40%,3.80%
+2,506026,28/08/2024,08:00,japan,JPY,low,Coincident Indicator (MoM)  (Jun),-3.9%,-3.4%,1.9%
+3,506027,28/08/2024,08:00,japan,JPY,low,Leading Index  (Jun),109.0,108.6,111.2
+4,506028,28/08/2024,08:00,japan,JPY,low,Leading Index (MoM)  (Jun),-2.1%,-2.6%,0.3%
+5,504185,28/08/2024,08:00,philippines,PHP,low,Budget Balance  (Jul),-28.8B,,-209.1B
+6,505065,28/08/2024,08:00,estonia,EUR,low,M3 Money Supply  (Jul),28.4B,,27.9B
+7,506272,28/08/2024,08:15,united states,USD,medium,Fed Waller Speaks,,,
+8,505108,28/08/2024,09:00,sweden,SEK,low,Trade Balance  (Jul),6.50B,8.10B,8.10B
+9,505107,28/08/2024,09:00,lithuania,EUR,low,Lithuania Retail Sales (MoM)  (Jul),5.3%,,-4.8%
+10,505106,28/08/2024,09:00,lithuania,EUR,low,Lithuania Retail Sales (YoY)  (Jul),7.4%,,1.2%
+11,505117,28/08/2024,09:45,france,EUR,low,French Consumer Confidence  (Aug),92,92,91
+12,506030,28/08/2024,10:00,türkiye,TRY,low,Exports  (Jul),22.51B,22.50B,19.05B
+13,505118,28/08/2024,10:00,türkiye,TRY,low,Trade Balance  (Jul),-7.30B,,-5.87B
+14,505126,28/08/2024,11:00,italy,EUR,low,Italian Industrial Sales (YoY)  (Jun),-3.70%,,-4.80%
+15,505124,28/08/2024,11:00,italy,EUR,low,Italian Industrial Sales (MoM)  (Jun),0.10%,,-1.00%
+16,505122,28/08/2024,11:00,switzerland,CHF,low,ZEW Expectations  (Aug),-3.4,,9.4
+17,505121,28/08/2024,11:00,austria,EUR,low,Unicredit Bank Austria Manufacturing PMI  (Aug),44.4,,43.1
+18,505123,28/08/2024,11:00,euro zone,EUR,low,M3 Money Supply (YoY)  (Jul),2.3%,2.7%,2.2%
+19,506548,28/08/2024,11:00,euro zone,EUR,low,M3 Money Supply  (Jul),"16,340.1B",,"16,376.6B"
+20,505125,28/08/2024,11:00,euro zone,EUR,low,Loans to Non Financial Corporations  (Jul),0.6%,,0.7%
+21,506265,28/08/2024,11:00,euro zone,EUR,low,Private Sector Loans (YoY),0.5%,0.5%,0.3%
+22,506563,28/08/2024,13:00,italy,EUR,low,Italian 6-Month BOT Auction,3.247%,,3.518%
+23,506032,28/08/2024,13:00,france,EUR,medium,France Jobseekers Total  (Jul),"2,808.4K",,"2,834.5K"
+24,506148,28/08/2024,13:00,euro zone,EUR,medium,Eurogroup Meetings,,,
+25,506106,28/08/2024,14:00,united states,USD,low,MBA 30-Year Mortgage Rate,6.44%,,6.50%
+26,506107,28/08/2024,14:00,united states,USD,low,MBA Mortgage Applications (WoW),0.5%,,-10.1%
+27,506108,28/08/2024,14:00,united states,USD,low,MBA Purchase Index,131.8,,130.6
+28,506109,28/08/2024,14:00,united states,USD,low,Mortgage Market Index,226.9,,225.8
+29,506110,28/08/2024,14:00,united states,USD,low,Mortgage Refinance Index,753.8,,754.4
+30,506266,28/08/2024,15:15,united kingdom,GBP,medium,BoE MPC Member Mann Speaks,,,
+31,494190,28/08/2024,16:00,israel,ILS,low,Interest Rate Decision  (Aug),4.50%,4.50%,4.50%
+32,506221,28/08/2024,17:30,united states,USD,high,Crude Oil Inventories,-0.846M,-2.700M,-4.649M
+33,506227,28/08/2024,17:30,united states,USD,low,EIA Refinery Crude Runs  (WoW),0.175M,,0.222M
+34,506224,28/08/2024,17:30,united states,USD,low,Crude Oil Imports,0.282M,,0.078M
+35,506225,28/08/2024,17:30,united states,USD,medium,Cushing Crude Oil Inventories,-0.668M,,-0.560M
+36,506230,28/08/2024,17:30,united states,USD,low,Distillate Fuel Production,0.110M,,0.123M
+37,506226,28/08/2024,17:30,united states,USD,low,EIA Weekly Distillates Stocks,0.275M,-1.100M,-3.312M
+38,506229,28/08/2024,17:30,united states,USD,low,Gasoline Production,-0.156M,,0.046M
+39,506223,28/08/2024,17:30,united states,USD,low,Heating Oil Stockpiles,-1.189M,,0.265M
+40,506228,28/08/2024,17:30,united states,USD,low,EIA Weekly Refinery Utilization Rates (WoW),1.0%,,0.8%
+41,506222,28/08/2024,17:30,united states,USD,low,Gasoline Inventories,-2.203M,-1.600M,-1.606M
+42,506033,28/08/2024,19:00,russia,RUB,low,Business Confidence  (Aug),7.1,,7.0
+43,505138,28/08/2024,19:00,russia,RUB,low,Industrial Production (YoY)  (Jul),3.3%,2.2%,1.9%
+44,506037,28/08/2024,19:00,russia,RUB,medium,GDP Monthly (YoY)  (Jul),3.4%,,3.0%
+45,505135,28/08/2024,19:00,russia,RUB,low,Russian Real Wage Growth (YoY)  (Jun),6.2%,8.3%,8.8%
+46,505136,28/08/2024,19:00,russia,RUB,medium,Retail Sales (YoY)  (Jul),6.1%,5.4%,6.3%
+47,505137,28/08/2024,19:00,russia,RUB,medium,Unemployment Rate  (Jul),2.4%,2.4%,2.4%
+48,506034,28/08/2024,20:00,united states,USD,medium,5-Year Note Auction,,,4.121%
+49,506549,28/08/2024,20:30,brazil,BRL,low,CAGED Net Payroll Jobs  (Jul),,,201.71K
+50,506233,28/08/2024,20:30,brazil,BRL,low,Foreign Exchange Flows,,,-0.573B
+51,216,29/08/2024,All Day,slovakia,,,Slovakia - National Day,,,
+52,506152,29/08/2024,01:00,united states,USD,medium,FOMC Member Bostic Speaks,,,
+53,506271,29/08/2024,01:00,france,EUR,medium,France Jobseekers Total,,,"2,834.5K"
+54,506560,29/08/2024,02:01,ireland,EUR,low,Irish Consumer Confidence  (Aug),,,74.9
+55,506240,29/08/2024,02:50,japan,JPY,low,Foreign Bonds Buying,,,"1,854.0B"
+56,506241,29/08/2024,02:50,japan,JPY,low,Foreign Investments in Japanese Stocks,,,-47.9B
+57,505140,29/08/2024,04:00,new zealand,NZD,low,ANZ Business Confidence  (Aug),,,27.1
+58,505141,29/08/2024,04:00,new zealand,NZD,low,NBNZ Own Activity  (Aug),,,16.3%
+59,505142,29/08/2024,04:30,australia,AUD,low,Building Capital Expenditure (MoM)  (Q2),,,-0.9%
+60,505143,29/08/2024,04:30,australia,AUD,low,Plant/Machinery Capital Expenditure (QoQ)  (Q2),,,3.3%
+61,505144,29/08/2024,04:30,australia,AUD,medium,Private New Capital Expenditure (QoQ)  (Q2),,0.9%,1.0%
+62,506040,29/08/2024,05:00,vietnam,VND,low,Vietnamese CPI (YoY)  (Aug),,,4.36%
+63,506041,29/08/2024,05:00,vietnam,VND,low,Vietnamese CPI (MoM)  (Aug),,,0.48%
+64,506039,29/08/2024,05:00,vietnam,VND,low,Vietnamese Industrial Production (YoY)  (Aug),,,11.2%
+65,506042,29/08/2024,05:00,vietnam,VND,low,Vietnamese Retail Sales (YoY)  (Aug),,,9.4%
+66,506038,29/08/2024,05:00,vietnam,VND,low,Trade Balance  (Aug),,,"2,120M"
+67,506043,29/08/2024,06:35,japan,JPY,low,2-Year JGB Auction,,,0.409%
+68,505145,29/08/2024,07:30,netherlands,EUR,low,Dutch Business Confidence  (Aug),,,-2.7
+69,505146,29/08/2024,08:00,japan,JPY,low,Household Confidence  (Aug),,36.9,36.7
+70,506044,29/08/2024,08:00,estonia,EUR,low,Estonian Retail Sales (MoM)  (Jul),,,-3.00%
+71,506045,29/08/2024,08:00,estonia,EUR,low,Estonian Retail Sales (YoY)  (Jul),,,-5.00%
+72,505157,29/08/2024,09:00,united kingdom,GBP,low,Car Registration (MoM)  (Jul),,,21.4%
+73,505158,29/08/2024,09:00,united kingdom,GBP,low,Car Registration (YoY)  (Jul),,,1.1%
+74,505171,29/08/2024,09:00,sweden,SEK,medium,GDP (QoQ)  (Q2),,-0.8%,0.7%
+75,505173,29/08/2024,09:00,sweden,SEK,medium,GDP (YoY)  (Q2),,0.0%,0.7%
+76,505153,29/08/2024,09:00,sweden,SEK,low,Retail Sales (MoM)  (Jul),,-0.2%,-0.3%
+77,505151,29/08/2024,09:00,sweden,SEK,low,Retail Sales (YoY)  (Jul),,,-0.1%
+78,505161,29/08/2024,09:00,italy,EUR,low,Italian Car Registration (MoM)  (Jul),,,14.7%
+79,505162,29/08/2024,09:00,italy,EUR,low,Italian Car Registration (YoY)  (Jul),,,15.1%
+80,505150,29/08/2024,09:00,germany,EUR,low,German Car Registration (MoM)  (Jul),,,25.8%
+81,505152,29/08/2024,09:00,germany,EUR,low,German Car Registration (YoY)  (Jul),,,6.1%
+82,505163,29/08/2024,09:00,netherlands,EUR,low,Car Registration (MoM)  (Jul),,,24.8%
+83,505164,29/08/2024,09:00,netherlands,EUR,low,Car Registration (YoY)  (Jul),,,-11.9%
+84,505155,29/08/2024,09:00,france,EUR,low,French Car Registration (MoM)  (Jul),,,28.6%
+85,505156,29/08/2024,09:00,france,EUR,low,French Car Registration (YoY)  (Jul),,,-4.8%
+86,505154,29/08/2024,09:00,denmark,DKK,low,Industrial Outlook  (Aug),,,0.00%
+87,505166,29/08/2024,09:00,poland,PLN,low,Car Registration (YoY)  (Jul),,,20.80%
+88,505165,29/08/2024,09:00,poland,PLN,low,Car Registration (MoM)  (Jul),,,15.00%
+89,505148,29/08/2024,09:00,czech republic,CZK,low,Car Registration (MoM)  (Jul),,,13.20%
+90,505149,29/08/2024,09:00,czech republic,CZK,low,Car Registration (YoY)  (Jul),,,9.10%
+91,505172,29/08/2024,09:00,norway,NOK,low,Core Retail Sales (MoM)  (Jul),,0.9%,-5.1%
+92,505170,29/08/2024,09:00,slovakia,EUR,low,Car Registration (YoY)  (Jul),,,3.3%
+93,505169,29/08/2024,09:00,slovakia,EUR,low,Car Registration (MoM)  (Jul),,,18.6%
+94,505159,29/08/2024,09:00,hungary,HUF,low,Car Registration (MoM)  (Jul),,,23.00%
+95,505160,29/08/2024,09:00,hungary,HUF,low,Car Registration (YoY)  (Jul),,,23.90%
+96,505168,29/08/2024,09:00,romania,RON,low,Car Registration (YoY)  (Jul),,,62.10%
+97,505167,29/08/2024,09:00,romania,RON,low,Car Registration (MoM)  (Jul),,,36.50%
+98,506047,29/08/2024,10:00,sweden,SEK,low,Business Confidence  (Aug),,,95.40
+99,505185,29/08/2024,10:00,sweden,SEK,low,Consumer Confidence  (Aug),,96.7,96.6
+100,505186,29/08/2024,10:00,sweden,SEK,low,Manufacturing Confidence  (Aug),,,97.0
+101,506046,29/08/2024,10:00,spain,EUR,low,Core CPI (YoY)  (Aug),,,2.8%
+102,505180,29/08/2024,10:00,spain,EUR,medium,Spanish CPI (YoY)  (Aug),,2.4%,2.8%
+103,505181,29/08/2024,10:00,spain,EUR,low,Spanish CPI (MoM)  (Aug),,0.1%,-0.5%
+104,505182,29/08/2024,10:00,spain,EUR,medium,Spanish HICP (YoY)  (Aug),,2.5%,2.9%
+105,505183,29/08/2024,10:00,spain,EUR,low,Spanish HICP (MoM)  (Aug),,0.2%,-0.7%
+106,505184,29/08/2024,10:00,türkiye,TRY,low,Turkish Economic Confidence Index  (Aug),,,94.40
+107,506350,29/08/2024,10:15,euro zone,EUR,medium,ECB's Schnabel Speaks,,,
+108,505190,29/08/2024,11:00,germany,EUR,low,Baden Wuerttemberg CPI (YoY)  (Aug),,,2.1%
+109,506048,29/08/2024,11:00,germany,EUR,low,Baden Wuerttemberg CPI (MoM)  (Aug),,,0.3%
+110,505194,29/08/2024,11:00,germany,EUR,low,Bavaria CPI (YoY)  (Aug),,,2.5%
+111,505193,29/08/2024,11:00,germany,EUR,low,Bavaria CPI (MoM)  (Aug),,,0.3%
+112,505188,29/08/2024,11:00,germany,EUR,low,Brandenburg CPI (MoM)  (Aug),,,0.3%
+113,505189,29/08/2024,11:00,germany,EUR,low,Brandenburg CPI (YoY)  (Aug),,,2.6%
+114,505195,29/08/2024,11:00,germany,EUR,low,Hesse CPI (YoY)  (Aug),,,1.8%
+115,505197,29/08/2024,11:00,germany,EUR,low,Hesse CPI (MoM)  (Aug),,,0.3%
+116,505196,29/08/2024,11:00,germany,EUR,low,North Rhine Westphalia CPI (YoY)  (Aug),,,2.3%
+117,505192,29/08/2024,11:00,germany,EUR,low,North Rhine Westphalia CPI (MoM)  (Aug),,,0.3%
+118,505198,29/08/2024,11:00,germany,EUR,low,Saxony CPI (YoY)  (Aug),,,3.1%
+119,505200,29/08/2024,11:00,germany,EUR,low,Saxony CPI (MoM)  (Aug),,,0.6%
+120,505201,29/08/2024,11:00,poland,PLN,medium,GDP (QoQ)  (Q2),,1.5%,0.5%
+121,505199,29/08/2024,11:00,poland,PLN,medium,GDP (YoY)  (Q2),,3.2%,2.0%
+122,505191,29/08/2024,11:00,zambia,ZMK,low,CPI (YoY)  (Aug),,,15.4%
+123,505202,29/08/2024,11:00,zambia,ZMK,low,CPI (MoM)  (Aug),,,1.0%
+124,505206,29/08/2024,11:30,portugal,EUR,low,Portuguese Business Confidence  (Aug),,,1.8
+125,505205,29/08/2024,11:30,portugal,EUR,low,Portuguese Consumer Confidence  (Aug),,,-15.40
+126,505215,29/08/2024,12:00,greece,EUR,low,Greek Unemployment Rate  (Jul),,,9.6%
+127,505212,29/08/2024,12:00,euro zone,EUR,low,Business and Consumer Survey  (Aug),,95.9,95.8
+128,505210,29/08/2024,12:00,euro zone,EUR,low,Business Climate  (Aug),,,-0.61
+129,506279,29/08/2024,12:00,euro zone,EUR,low,Consumer Confidence  (Aug),,-13.4,-13.0
+130,505209,29/08/2024,12:00,euro zone,EUR,low,Consumer Inflation Expectation  (Aug),,,11.2
+131,505208,29/08/2024,12:00,euro zone,EUR,low,Selling Price Expectations  (Aug),,,6.8
+132,505213,29/08/2024,12:00,euro zone,EUR,low,Services Sentiment  (Aug),,5.2,4.8
+133,505211,29/08/2024,12:00,euro zone,EUR,low,Industrial Sentiment  (Aug),,-10.6,-10.5
+134,505216,29/08/2024,12:00,iceland,ISK,low,CPI (MoM)  (Aug),,,0.5%
+135,505207,29/08/2024,12:00,iceland,ISK,low,CPI (YoY)  (Aug),,,6.3%
+136,506351,29/08/2024,12:15,euro zone,EUR,medium,ECB's Lane Speaks,,,
+137,506174,29/08/2024,12:30,belgium,EUR,low,Belgium CPI (YoY)  (Aug),,,3.64%
+138,506172,29/08/2024,12:30,belgium,EUR,low,Belgium CPI (MoM)  (Aug),,,0.71%
+139,505217,29/08/2024,12:30,south africa,ZAR,low,PPI (YoY)  (Jul),,,4.6%
+140,505219,29/08/2024,12:30,south africa,ZAR,low,PPI (MoM)  (Jul),,,-0.3%
+141,506016,29/08/2024,12:30,vietnam,VND,low,Vietnamese Foreign Direct Investment (USD)  (Aug),,,12.55B
+142,506050,29/08/2024,13:00,ireland,EUR,low,Irish HICP (YoY)  (Aug),,,1.5%
+143,506049,29/08/2024,13:00,ireland,EUR,low,Irish HICP (MoM)  (Aug),,,0.2%
+144,506149,29/08/2024,13:00,euro zone,EUR,medium,Eurogroup Meetings,,,
+145,505222,29/08/2024,13:00,latvia,EUR,low,Latvian Retail Sales (YoY)  (Jul),,,-2.10%
+146,505221,29/08/2024,13:00,latvia,EUR,low,Latvian Retail Sales (MoM)  (Jul),,,-1.70%
+147,506064,29/08/2024,14:00,spain,EUR,low,Spanish Business Confidence  (Jul),,,-4.2
+148,505225,29/08/2024,14:00,brazil,BRL,low,IGP-M Inflation Index (MoM)  (Aug),,0.46%,0.61%
+149,506051,29/08/2024,14:00,portugal,EUR,low,Portuguese Unemployment Rate  (Jul),,,6.1%
+150,506065,29/08/2024,14:00,türkiye,TRY,low,CBRT Monetary Policy Meeting Minutes,,,
+151,505226,29/08/2024,14:30,brazil,BRL,low,Bank lending (MoM)  (Jul),,,1.2%
+152,505885,29/08/2024,14:30,türkiye,TRY,low,Gross FX Reserves,,,94.15B
+153,506304,29/08/2024,14:30,türkiye,TRY,low,Net FX Reserves,,,47.78%
+154,505228,29/08/2024,15:00,germany,EUR,high,German CPI (MoM)  (Aug),,0.0%,0.3%
+155,505231,29/08/2024,15:00,germany,EUR,medium,German CPI (YoY)  (Aug),,2.1%,2.3%
+156,505230,29/08/2024,15:00,germany,EUR,low,German HICP (YoY)  (Aug),,2.3%,2.6%
+157,505229,29/08/2024,15:00,germany,EUR,low,German HICP (MoM)  (Aug),,0.0%,0.5%
+158,505227,29/08/2024,15:00,brazil,BRL,low,Brazilian PPI (MoM)  (Jul),,,1.28%
+159,505880,29/08/2024,15:30,united states,USD,medium,Continuing Jobless Claims,,"1,870K","1,863K"
+160,505237,29/08/2024,15:30,united states,USD,medium,Core PCE Prices  (Q2),,2.90%,3.70%
+161,505242,29/08/2024,15:30,united states,USD,low,Corporate Profits (QoQ)  (Q2),,,-2.7%
+162,505234,29/08/2024,15:30,united states,USD,high,GDP (QoQ)  (Q2),,2.8%,1.4%
+163,505238,29/08/2024,15:30,united states,USD,medium,GDP Price Index (QoQ)  (Q2),,2.3%,3.1%
+164,505236,29/08/2024,15:30,united states,USD,low,GDP Sales  (Q2),,2.0%,1.8%
+165,505241,29/08/2024,15:30,united states,USD,medium,Goods Trade Balance  (Jul),,-97.70B,-96.56B
+166,505879,29/08/2024,15:30,united states,USD,high,Initial Jobless Claims,,232K,232K
+167,505881,29/08/2024,15:30,united states,USD,low,Jobless Claims 4-Week Avg.,,,236.00K
+168,505239,29/08/2024,15:30,united states,USD,low,PCE Prices  (Q2),,2.6%,3.4%
+169,505233,29/08/2024,15:30,united states,USD,low,Real Consumer Spending  (Q2),,2.3%,1.5%
+170,505240,29/08/2024,15:30,united states,USD,medium,Retail Inventories Ex Auto  (Jul),,,0.2%
+171,506267,29/08/2024,15:30,united states,USD,low,Wholesale Inventories (MoM),,0.3%,0.2%
+172,505232,29/08/2024,15:30,canada,CAD,low,Average Weekly Earnings (YoY)  (Jun),,,4.23%
+173,505235,29/08/2024,15:30,canada,CAD,medium,Current Account  (Q2),,-6.0B,-5.4B
+174,505243,29/08/2024,16:00,chile,CLP,low,Unemployment Rate  (Jul),,8.5%,8.3%
+175,506314,29/08/2024,16:00,russia,RUB,low,Central Bank reserves (USD),,,609.9B
+176,505618,29/08/2024,16:00,kuwait,KWD,low,M2 Money Supply (YoY)  (Jul),,,1.20%
+177,505619,29/08/2024,16:00,kuwait,KWD,low,Bank Lending (YoY)  (Jul),,,3.16%
+178,505244,29/08/2024,17:00,united states,USD,medium,Pending Home Sales (MoM)  (Jul),,0.2%,4.8%
+179,505245,29/08/2024,17:00,united states,USD,low,Pending Home Sales Index  (Jul),,,74.3
+180,506035,29/08/2024,17:00,saudi arabia,SAR,low,M3 Money Supply (YoY)  (Jul),,,8.90%
+181,506036,29/08/2024,17:00,saudi arabia,SAR,low,Private Sector Loans (YoY)  (Jul),,,11.30%
+182,505884,29/08/2024,17:30,united states,USD,low,Natural Gas Storage,,33B,35B
+183,505882,29/08/2024,18:30,united states,USD,low,4-Week Bill Auction,,,5.240%
+184,505883,29/08/2024,18:30,united states,USD,low,8-Week Bill Auction,,,5.125%
+185,506268,29/08/2024,19:00,switzerland,CHF,medium,SNB Chairman Thomas Jordan speaks,,,
+186,506066,29/08/2024,20:00,united states,USD,medium,7-Year Note Auction,,,4.162%
+187,506269,29/08/2024,20:00,germany,EUR,medium,German Buba President Nagel Speaks,,,
+188,505258,29/08/2024,20:30,brazil,BRL,low,CAGED Net Payroll Jobs  (Jul),,190.00K,201.71K
+189,506153,29/08/2024,22:30,united states,USD,medium,FOMC Member Bostic Speaks,,,
+190,506277,29/08/2024,23:30,united states,USD,medium,Fed's Balance Sheet,,,"7,194B"
+191,506278,29/08/2024,23:30,united states,USD,low,Reserve Balances with Federal Reserve Banks,,,3.359T
+192,178,30/08/2024,All Day,kazakhstan,,,Kazakhstan - Constitution Day,,,
+193,188,30/08/2024,All Day,türkiye,,,Türkiye - Victory Day,,,
+194,290,30/08/2024,All Day,peru,,,Peru - Santa Rosa de Lima's Day,,,
+195,505260,30/08/2024,01:45,new zealand,NZD,low,Building Consents (MoM)  (Jul),,,-13.8%
+196,506069,30/08/2024,02:00,south korea,KRW,low,Industrial Production (YoY)  (Jul),,7.5%,3.8%
+197,506070,30/08/2024,02:00,south korea,KRW,low,Industrial Production (MoM)  (Jul),,-0.6%,0.5%
+198,506068,30/08/2024,02:00,south korea,KRW,low,Retail Sales (MoM)  (Jul),,,1.0%
+199,506169,30/08/2024,02:00,south korea,KRW,low,Service Sector Output (MoM)  (Jul),,,0.2%
+200,505262,30/08/2024,02:30,japan,JPY,low,CPI Tokyo Ex Food & Energy (YoY)  (Aug),,,1.1%
+201,505264,30/08/2024,02:30,japan,JPY,low,Jobs/applications ratio  (Jul),,1.23,1.23
+202,505265,30/08/2024,02:30,japan,JPY,medium,Tokyo Core CPI (YoY)  (Aug),,2.2%,2.2%
+203,505266,30/08/2024,02:30,japan,JPY,low,Tokyo CPI (YoY)  (Aug),,,2.2%
+204,216,29/08/2024,All Day,slovakia,,,Slovakia - National Day,,,
+205,178,30/08/2024,All Day,kazakhstan,,,Kazakhstan - Constitution Day,,,
+206,188,30/08/2024,All Day,türkiye,,,Türkiye - Victory Day,,,
+207,290,30/08/2024,All Day,peru,,,Peru - Santa Rosa de Lima's Day,,,
+208,505261,30/08/2024,02:30,japan,JPY,low,CPI Tokyo Ex Food and Energy (MoM)  (Aug),,,0.2%
+209,505263,30/08/2024,02:30,japan,JPY,low,Unemployment Rate  (Jul),,2.5%,2.5%
+210,505270,30/08/2024,02:50,japan,JPY,medium,Industrial Production (MoM)  (Jul),,3.6%,-4.2%
+211,505269,30/08/2024,02:50,japan,JPY,low,Industrial Production forecast 1m ahead (MoM)  (Aug),,,6.5%
+212,505268,30/08/2024,02:50,japan,JPY,low,Industrial Production forecast 2m ahead (MoM)  (Sep),,,0.7%
+213,506067,30/08/2024,02:50,japan,JPY,low,Large Retailers' Sales (MoM)  (Jul),,,0.6%
+214,505271,30/08/2024,02:50,japan,JPY,low,Large Scale Retail Sales YoY (YoY)  (Jul),,,7.0%
+215,505267,30/08/2024,02:50,japan,JPY,low,Retail Sales (YoY)  (Jul),,2.8%,3.7%
+216,505273,30/08/2024,04:30,australia,AUD,low,Housing Credit  (Jul),,,0.4%
+217,505272,30/08/2024,04:30,australia,AUD,low,Private Sector Credit (MoM)  (Jul),,0.5%,0.6%
+218,505274,30/08/2024,04:30,australia,AUD,medium,Retail Sales (MoM)  (Jul),,0.5%,0.5%
+219,506071,30/08/2024,05:00,singapore,SGD,low,Bank Lending  (Jul),,,803.6B
+220,505275,30/08/2024,06:00,new zealand,NZD,low,M3 Money Supply  (Jul),,,"412,948.0B"
+221,505902,30/08/2024,07:00,thailand,THB,low,Industrial Production (YoY)  (Jul),,-0.35%,-1.71%
+222,506072,30/08/2024,07:30,netherlands,EUR,low,Dutch CPI (YoY)  (Aug),,,3.7%
+223,505280,30/08/2024,08:00,japan,JPY,low,Construction Orders (YoY)  (Jul),,,-19.7%
+224,504693,30/08/2024,08:00,japan,JPY,low,Housing Starts (YoY)  (Jul),,-1.1%,-6.7%
+225,505279,30/08/2024,08:00,finland,EUR,low,Finnish GDP (QoQ)  (Q2),,0.4%,0.2%
+226,505278,30/08/2024,08:00,finland,EUR,low,Finnish GDP (YoY)  (Q2),,,-1.2%
+227,505277,30/08/2024,08:00,estonia,EUR,low,Estonian GDP (YoY)  (Q2),,,-2.4%
+228,505284,30/08/2024,08:30,france,EUR,low,French Non-Farm Payrolls (QoQ)  (Q2),,0.0%,0.0%
+229,506542,30/08/2024,09:00,united kingdom,GBP,medium,Nationwide HPI (MoM)  (Aug),,,0.3%
+230,506543,30/08/2024,09:00,united kingdom,GBP,medium,Nationwide HPI (YoY)  (Aug),,,2.1%
+231,506074,30/08/2024,09:00,germany,EUR,low,German Import Price Index (MoM)  (Jul),,0.1%,0.4%
+232,506073,30/08/2024,09:00,germany,EUR,low,German Import Price Index (YoY)  (Jul),,,0.7%
+233,506300,30/08/2024,09:00,germany,EUR,medium,German Retail Sales (MoM)  (May),,0.4%,-1.2%
+234,506299,30/08/2024,09:00,germany,EUR,low,German Retail Sales (YoY)  (May),,,-0.6%
+235,506508,30/08/2024,09:00,denmark,DKK,low,Retail Sales (YoY)  (Jul),,,0.8%
+236,505109,30/08/2024,09:00,denmark,DKK,low,Retail Sales (YoY)  (Jul),,,0.8%
+237,505290,30/08/2024,09:00,denmark,DKK,low,Unemployment Rate  (Jul),,,2.5%
+238,505291,30/08/2024,09:00,lithuania,EUR,low,Lithuania GDP (YoY)  (Q2),,,1.90%
+239,505293,30/08/2024,09:00,south africa,ZAR,low,M3 Money Supply (YoY)  (Jul),,,4.19%
+240,505292,30/08/2024,09:00,south africa,ZAR,low,Private Sector Credit  (Jul),,,4.27%
+241,505298,30/08/2024,09:30,hungary,HUF,low,PPI (YoY)  (Jul),,,2.7%
+242,505301,30/08/2024,09:45,france,EUR,medium,French Consumer Spending (MoM)  (Jul),,0.5%,-0.5%
+243,505302,30/08/2024,09:45,france,EUR,low,French CPI (YoY)  (Aug),,1.8%,2.3%
+244,505299,30/08/2024,09:45,france,EUR,medium,French CPI (MoM)  (Aug),,0.5%,0.2%
+245,505300,30/08/2024,09:45,france,EUR,medium,French GDP (QoQ)  (Q2),,0.3%,0.3%
+246,506077,30/08/2024,09:45,france,EUR,medium,French GDP (YoY)  (Q2),,1.1%,1.1%
+247,506075,30/08/2024,09:45,france,EUR,medium,French HICP (MoM)  (Aug),,0.5%,0.2%
+248,506076,30/08/2024,09:45,france,EUR,low,French HICP (YoY)  (Aug),,2.2%,2.7%
+249,505304,30/08/2024,09:45,france,EUR,low,French PPI (MoM)  (Jul),,,-0.3%
+250,505303,30/08/2024,09:45,france,EUR,low,PPI (YoY)  (Jul),,,-6.00%
+251,505313,30/08/2024,10:00,switzerland,CHF,medium,KOF Leading Indicators  (Aug),,100.6,101.0
+252,505316,30/08/2024,10:00,switzerland,CHF,low,Official Reserves Assets  (Jul),,,794.3B
+253,505307,30/08/2024,10:00,spain,EUR,low,Spanish Retail Sales (YoY)  (Jul),,,0.3%
+254,505317,30/08/2024,10:00,thailand,THB,low,Current account  (Jul),,,2.000B
+255,505310,30/08/2024,10:00,thailand,THB,low,Exports (YoY)  (Jul),,,0.30%
+256,505311,30/08/2024,10:00,thailand,THB,low,Imports (YoY)  (Jul),,,-0.10%
+257,505312,30/08/2024,10:00,thailand,THB,low,Private Consumption (MoM)  (Jul),,,-0.2%
+258,505309,30/08/2024,10:00,thailand,THB,low,Private Investment (MoM)  (Jul),,,0.6%
+259,505315,30/08/2024,10:00,thailand,THB,low,Trade account  (Jul),,,2.40B
+260,505306,30/08/2024,10:00,malaysia,MYR,low,Money Supply (YoY)  (Jul),,,5.2%
+261,506079,30/08/2024,10:00,austria,EUR,low,Austrian CPI (YoY)  (Aug),,,2.90%
+262,506078,30/08/2024,10:00,austria,EUR,low,Austrian CPI (MoM)  (Aug),,,0.00%
+263,506081,30/08/2024,10:00,austria,EUR,low,Austrian HICP (YoY)  (Aug),,,2.9%
+264,506080,30/08/2024,10:00,austria,EUR,low,Austrian HICP (MoM)  (Aug),,,-0.4%
+265,505305,30/08/2024,10:00,austria,EUR,low,Austrian PPI (YoY)  (Jul),,,-2.5%
+266,505318,30/08/2024,10:00,austria,EUR,low,Austrian PPI (MoM)  (Jul),,,0.2%
+267,505308,30/08/2024,10:00,czech republic,CZK,low,GDP (QoQ)  (Q2),,0.3%,0.3%
+268,505314,30/08/2024,10:00,czech republic,CZK,low,GDP (YoY)  (Q2),,0.4%,0.4%
+269,506353,30/08/2024,10:05,euro zone,EUR,medium,ECB's Schnabel Speaks,,,
+270,506371,30/08/2024,10:30,thailand,THB,low,Currency Swaps (USD),,,26.5B
+271,506370,30/08/2024,10:30,thailand,THB,low,Foreign Reserves (USD),,,234.5B
+272,506354,30/08/2024,10:35,euro zone,EUR,medium,ECB's Schnabel Speaks,,,
+273,505322,30/08/2024,10:55,germany,EUR,medium,German Unemployment Change  (Aug),,16K,18K
+274,505319,30/08/2024,10:55,germany,EUR,medium,German Unemployment Rate  (Aug),,6.0%,6.0%
+275,505321,30/08/2024,10:55,germany,EUR,low,German Unemployment  (Aug),,,2.802M
+276,505320,30/08/2024,10:55,germany,EUR,low,German Unemployment n.s.a.  (Aug),,,2.809M
+277,505325,30/08/2024,11:00,italy,EUR,low,Italian Monthly Unemployment Rate  (Jul),,7.0%,7.0%
+278,505328,30/08/2024,11:00,spain,EUR,low,Spanish Current account  (Jun),,,5.56B
+279,505330,30/08/2024,11:00,poland,PLN,low,CPI (YoY)  (Aug),,,4.2%
+280,505332,30/08/2024,11:00,poland,PLN,low,CPI (MoM)  (Aug),,,1.4%
+281,505331,30/08/2024,11:00,czech republic,CZK,low,M3 Money Supply  (Jul),,,5.3%
+282,505323,30/08/2024,11:00,norway,NOK,low,Central Bank Currency Purchase  (Sep),,,400.0M
+283,505329,30/08/2024,11:00,norway,NOK,low,Unemployment Change  (Aug),,,76.57K
+284,505324,30/08/2024,11:00,norway,NOK,low,Unemployment Rate n.s.a.  (Aug),,,2.10%
+285,505338,30/08/2024,11:30,united kingdom,GBP,low,BoE Consumer Credit  (Jul),,1.135B,1.162B
+286,505343,30/08/2024,11:30,united kingdom,GBP,low,M3 Money Supply  (Jul),,,"3,056.2B"
+287,505342,30/08/2024,11:30,united kingdom,GBP,low,M4 Money Supply (MoM)  (Jul),,0.5%,0.5%
+288,505336,30/08/2024,11:30,united kingdom,GBP,low,Mortgage Approvals  (Jul),,61.00K,59.98K
+289,505340,30/08/2024,11:30,united kingdom,GBP,low,Mortgage Lending  (Jul),,,2.65B
+290,506082,30/08/2024,11:30,united kingdom,GBP,low,Net Lending to Individuals  (Jul),,3.400B,3.816B
+291,505341,30/08/2024,11:30,portugal,EUR,low,Portuguese CPI (YoY)  (Aug),,,2.5%
+292,505339,30/08/2024,11:30,portugal,EUR,low,Portuguese CPI (MoM)  (Aug),,,-0.6%
+293,505337,30/08/2024,11:30,hong kong,HKD,low,M3 Money Supply  (Jul),,,1.5%
+294,505335,30/08/2024,11:30,hong kong,HKD,low,Retail Sales (YoY)  (Jul),,,-9.7%
+295,505350,30/08/2024,12:00,italy,EUR,low,Italian CPI (YoY)  (Aug),,1.1%,1.3%
+296,505354,30/08/2024,12:00,italy,EUR,low,Italian CPI (MoM)  (Aug),,0.3%,0.4%
+297,505351,30/08/2024,12:00,italy,EUR,low,Italian HICP (MoM)  (Aug),,0.0%,-0.9%
+298,505352,30/08/2024,12:00,italy,EUR,low,Italian HICP (YoY)  (Aug),,1.3%,1.6%
+299,506088,30/08/2024,12:00,nigeria,NGN,low,Foreign Reserves (USD)  (Aug),,,36.80B
+300,505346,30/08/2024,12:00,greece,EUR,low,Greek PPI (YoY)  (Jul),,,-0.7%
+301,505355,30/08/2024,12:00,greece,EUR,low,Greek Retail Sales (YoY)  (Jun),,,10.5%
+302,506086,30/08/2024,12:00,euro zone,EUR,low,Core CPI (MoM)  (Aug),,,-0.2%
+303,506085,30/08/2024,12:00,euro zone,EUR,medium,Core CPI (YoY)  (Aug),,2.8%,2.9%
+304,506084,30/08/2024,12:00,euro zone,EUR,medium,CPI (MoM)  (Aug),,,0.0%
+305,505347,30/08/2024,12:00,euro zone,EUR,high,CPI (YoY)  (Aug),,2.2%,2.6%
+306,505353,30/08/2024,12:00,euro zone,EUR,low,"CPI, n.s.a  (Aug)",,,126.54
+307,505349,30/08/2024,12:00,euro zone,EUR,low,HICP ex Energy & Food (YoY)  (Aug),,,2.8%
+308,506087,30/08/2024,12:00,euro zone,EUR,low,HICP ex Energy and Food (MoM)  (Aug),,,-0.1%
+309,505348,30/08/2024,12:00,euro zone,EUR,medium,Unemployment Rate  (Jul),,6.5%,6.5%
+310,505345,30/08/2024,12:00,iceland,ISK,low,GDP (YoY)  (Q2),,,-4.0%
+311,505344,30/08/2024,12:00,iceland,ISK,low,GDP (QoQ)  (Q2),,,-0.9%
+312,505326,30/08/2024,13:00,italy,EUR,low,Italian Business Confidence  (Aug),,87.5,87.6
+313,505327,30/08/2024,13:00,italy,EUR,low,Italian Consumer Confidence  (Aug),,,98.9
+314,505357,30/08/2024,13:00,india,INR,low,Federal Fiscal Deficit  (Jul),,,"1,357.12B"
+315,505359,30/08/2024,13:00,ireland,EUR,low,Irish Retail Sales (YoY)  (Jul),,,-1.8%
+316,505356,30/08/2024,13:00,ireland,EUR,low,Irish Retail Sales (MoM)  (Jul),,,-1.4%
+317,505361,30/08/2024,13:00,belgium,EUR,low,Belgian GDP (QoQ)  (Q2),,,0.2%
+318,505358,30/08/2024,13:00,portugal,EUR,low,Portuguese GDP (QoQ)  (Q2),,0.1%,0.1%
+319,505360,30/08/2024,13:00,portugal,EUR,low,Portuguese GDP (YoY)  (Q2),,1.5%,1.5%
+320,506150,30/08/2024,13:00,euro zone,EUR,medium,Eurogroup Meetings,,,
+321,505362,30/08/2024,13:00,latvia,EUR,low,Latvian GDP (YoY)  (Q2),,0.1%,0.1%
+322,506089,30/08/2024,14:30,india,INR,low,"FX Reserves, USD",,,674.66B
+323,506151,30/08/2024,14:30,india,INR,low,RBI Monetary and Credit Information Review,,,
+324,505366,30/08/2024,14:30,brazil,BRL,low,Net Debt-to-GDP ratio  (Jul),,,62.2%
+325,505363,30/08/2024,14:30,brazil,BRL,low,Budget Balance  (Jul),,-78.600B,-135.724B
+326,505365,30/08/2024,14:30,brazil,BRL,low,Budget Surplus  (Jul),,,-40.873B
+327,505364,30/08/2024,14:30,brazil,BRL,medium,Gross Debt-to-GDP ratio (MoM)  (Jul),,,77.8%
+328,505371,30/08/2024,15:00,india,INR,medium,GDP Quarterly (YoY)  (Q1),,6.9%,7.8%
+329,505372,30/08/2024,15:00,india,INR,low,Infrastructure Output (YoY)  (Jul),,,4.0%
+330,505580,30/08/2024,15:00,spain,EUR,low,Spanish Consumer Confidence  (Jul),,,88.4
+331,506090,30/08/2024,15:00,brazil,BRL,medium,Unemployment Rate  (Jul),,6.8%,6.9%
+332,505370,30/08/2024,15:00,south africa,ZAR,low,Trade Balance  (Jul),,,24.23B
+333,505381,30/08/2024,15:30,united states,USD,high,Core PCE Price Index (MoM)  (Jul),,0.2%,0.2%
+334,505383,30/08/2024,15:30,united states,USD,high,Core PCE Price Index (YoY)  (Jul),,2.7%,2.6%
+335,505379,30/08/2024,15:30,united states,USD,medium,PCE Price index (YoY)  (Jul),,2.5%,2.5%
+336,505380,30/08/2024,15:30,united states,USD,medium,PCE price index (MoM)  (Jul),,0.2%,0.1%
+337,505376,30/08/2024,15:30,united states,USD,low,Personal Income (MoM)  (Jul),,0.2%,0.2%
+338,505377,30/08/2024,15:30,united states,USD,medium,Personal Spending (MoM)  (Jul),,0.5%,0.3%
+339,505378,30/08/2024,15:30,united states,USD,low,Real Personal Consumption (MoM)  (Jul),,,0.2%
+340,505375,30/08/2024,15:30,canada,CAD,low,GDP Implicit Price (QoQ)  (Q2),,,-0.30%
+341,505384,30/08/2024,15:30,canada,CAD,medium,GDP (MoM)  (Jun),,0.1%,0.2%
+342,505373,30/08/2024,15:30,canada,CAD,medium,GDP (QoQ)  (Q2),,,0.4%
+343,505382,30/08/2024,15:30,canada,CAD,medium,GDP (YoY)  (Q2),,,0.53%
+344,505374,30/08/2024,15:30,canada,CAD,medium,GDP Annualized (QoQ)  (Q2),,1.6%,1.7%
+345,506091,30/08/2024,15:31,canada,CAD,medium,GDP (MoM)  (Jul),,,
+346,505387,30/08/2024,16:00,united states,USD,low,Dallas Fed PCE  (Jul),,,1.70%
+347,505388,30/08/2024,16:00,chile,CLP,low,Copper Production (YoY)  (Jul),,,-1.3%
+348,505385,30/08/2024,16:00,chile,CLP,low,Chilean Manufacturing Production (YoY)  (Jul),,,-4.8%
+349,506092,30/08/2024,16:00,chile,CLP,low,Retail Sales (YoY)  (Jul),,,7.9%
+350,505386,30/08/2024,16:00,uganda,UGX,low,CPI (YoY)  (Aug),,,4.0%
+351,505390,30/08/2024,16:45,united states,USD,high,Chicago PMI  (Aug),,44.4,45.3
+352,505391,30/08/2024,17:00,united states,USD,medium,Michigan 1-Year Inflation Expectations  (Aug),,2.9%,2.9%
+353,505394,30/08/2024,17:00,united states,USD,medium,Michigan 5-Year Inflation Expectations  (Aug),,3.0%,3.0%
+354,505393,30/08/2024,17:00,united states,USD,medium,Michigan Consumer Expectations  (Aug),,72.1,72.1
+355,505392,30/08/2024,17:00,united states,USD,medium,Michigan Consumer Sentiment  (Aug),,67.8,67.8
+356,505395,30/08/2024,17:00,united states,USD,low,Michigan Current Conditions  (Aug),,60.9,60.9
+357,505396,30/08/2024,17:00,kenya,KES,low,CPI (YoY)  (Aug),,,4.30%
+358,506352,30/08/2024,17:00,euro zone,EUR,medium,ECB's Supervisory Board Member Jochnick Speaks,,,
+359,504551,30/08/2024,17:30,united states,USD,medium,Atlanta Fed GDPNow  (Q3),,2.0%,2.0%
+360,505399,30/08/2024,18:00,canada,CAD,low,Budget Balance (YoY)  (Jun),,,-3.89B
+361,505398,30/08/2024,18:00,canada,CAD,low,Budget Balance  (Jun),,,1.10B
+362,506094,30/08/2024,18:00,egypt,EGP,low,M2 Money Supply (YoY)  (Jul),,,28.80%
+363,505397,30/08/2024,18:00,ukraine,UAH,low,Current Account (USD)  (Jul),,,-8.700B
+364,506093,30/08/2024,18:30,colombia,COP,low,Unemployment Rate  (Jul),,,10.3%
+365,505369,30/08/2024,19:20,south africa,ZAR,low,Budget Balance (MoM)  (Jul),,,38.55B
+366,505886,30/08/2024,20:00,united states,USD,medium,U.S. Baker Hughes Oil Rig Count,,,483
+367,505887,30/08/2024,20:00,united states,USD,medium,U.S. Baker Hughes Total Rig Count,,,585
+368,506329,30/08/2024,22:30,united kingdom,GBP,medium,CFTC GBP speculative net positions,,,67.5K
+369,506333,30/08/2024,22:30,united states,USD,low,CFTC Aluminium speculative net positions,,,2.3K
+370,506334,30/08/2024,22:30,united states,USD,low,CFTC Copper speculative net positions,,,20.3K
+371,506340,30/08/2024,22:30,united states,USD,low,CFTC Corn speculative net positions,,,-165.3K
+372,506337,30/08/2024,22:30,united states,USD,medium,CFTC Crude Oil speculative net positions,,,222.3K
+373,506335,30/08/2024,22:30,united states,USD,medium,CFTC Gold speculative net positions,,,291.3K
+374,506327,30/08/2024,22:30,united states,USD,medium,CFTC Nasdaq 100 speculative net positions,,,11.4K
+375,506338,30/08/2024,22:30,united states,USD,low,CFTC Natural Gas speculative net positions,,,-81.3K
+376,506325,30/08/2024,22:30,united states,USD,medium,CFTC S&P 500 speculative net positions,,,-84.8K
+377,506336,30/08/2024,22:30,united states,USD,low,CFTC Silver speculative net positions,,,49.3K
+378,506341,30/08/2024,22:30,united states,USD,low,CFTC Soybeans speculative net positions,,,-178.9K
+379,506339,30/08/2024,22:30,united states,USD,low,CFTC Wheat speculative net positions,,,-25.7K
+380,506331,30/08/2024,22:30,canada,CAD,low,CFTC CAD speculative net positions,,,-164.4K
+381,506326,30/08/2024,22:30,mexico,MXN,low,CFTC MXN speculative net positions,,,34.6K
+382,506323,30/08/2024,22:30,switzerland,CHF,low,CFTC CHF speculative net positions,,,-25.7K
+383,506322,30/08/2024,22:30,australia,AUD,medium,CFTC AUD speculative net positions,,,-38.9K
+384,506328,30/08/2024,22:30,brazil,BRL,medium,CFTC BRL speculative net positions,,,-51.0K
+385,506321,30/08/2024,22:30,japan,JPY,medium,CFTC JPY speculative net positions,,,23.6K
+386,506330,30/08/2024,22:30,new zealand,NZD,low,CFTC NZD speculative net positions,,,-13.8K
+387,506332,30/08/2024,22:30,euro zone,EUR,medium,CFTC EUR speculative net positions,,,56.0K
+388,505421,31/08/2024,00:00,mexico,MXN,low,Fiscal Balance  (Jul),,,-166.74B
+389,505424,31/08/2024,04:30,china,CNY,medium,Chinese Composite PMI  (Aug),,,50.2
+390,505426,31/08/2024,04:30,china,CNY,high,Manufacturing PMI  (Aug),,49.2,49.4
+391,505425,31/08/2024,04:30,china,CNY,medium,Non-Manufacturing PMI  (Aug),,50.0,50.2
+392,505432,01/09/2024,03:00,south korea,KRW,low,Exports (YoY)  (Aug),,,13.9%
+393,505431,01/09/2024,03:00,south korea,KRW,low,Imports (YoY)  (Aug),,,10.5%
+394,505433,01/09/2024,03:00,south korea,KRW,low,Trade Balance  (Aug),,,3.60B
+395,98,02/09/2024,All Day,united states,,,United States - Labor Day,,,
+396,98,02/09/2024,All Day,canada,,,Canada - Labor Day,,,
+397,98,02/09/2024,All Day,canada,,,Canada - Labor Day,,,
+398,98,02/09/2024,All Day,canada,,,Canada - Labor Day,,,
+399,98,02/09/2024,All Day,canada,,,Canada - Labor Day,,,
+400,216,02/09/2024,All Day,vietnam,,,Vietnam - National Day,,,
+401,216,02/09/2024,All Day,vietnam,,,Vietnam - National Day,,,
+402,506095,02/09/2024,02:00,australia,AUD,low,Judo Bank Australia Manufacturing PMI  (Aug),,48.7,47.5
+403,505434,02/09/2024,02:50,japan,JPY,medium,Capital Spending (YoY)  (Q2),,,6.8%
+404,505435,02/09/2024,03:01,ireland,EUR,low,AIB Ireland Manufacturing PMI  (Aug),,,50.1
+405,505436,02/09/2024,03:30,south korea,KRW,low,S&P Global South Korea Manufacturing PMI  (Aug),,,51.4
+406,505438,02/09/2024,03:30,japan,JPY,low,au Jibun Bank Japan Manufacturing PMI  (Aug),,,49.5
+407,505437,02/09/2024,03:30,philippines,PHP,low,S&P Global Philippines Manufacturing PMI  (Aug),,,51.2
+408,505440,02/09/2024,03:30,taiwan,TWD,low,S&P Global Taiwan Manufacturing PMI  (Aug),,,52.90
+409,505439,02/09/2024,03:30,indonesia,IDR,low,Nikkei Manufacturing PMI  (Aug),,,49.3
+410,506452,02/09/2024,04:30,australia,AUD,low,ANZ Job Advertisements (MoM)  (Aug),,,-3.0%
+411,505444,02/09/2024,04:30,australia,AUD,low,Building Approvals (YoY)  (Jul),,,9.80%
+412,505446,02/09/2024,04:30,australia,AUD,medium,Building Approvals (MoM)  (Jul),,,-6.5%
+413,505443,02/09/2024,04:30,australia,AUD,low,Business inventories (MoM)  (Q2),,,1.3%
+414,505442,02/09/2024,04:30,australia,AUD,medium,Company Gross Operating Profits (QoQ)  (Q2),,,-2.5%
+415,216,29/08/2024,All Day,slovakia,,,Slovakia - National Day,,,
+416,178,30/08/2024,All Day,kazakhstan,,,Kazakhstan - Constitution Day,,,
+417,188,30/08/2024,All Day,türkiye,,,Türkiye - Victory Day,,,
+418,290,30/08/2024,All Day,peru,,,Peru - Santa Rosa de Lima's Day,,,
+419,98,02/09/2024,All Day,united states,,,United States - Labor Day,,,
+420,98,02/09/2024,All Day,canada,,,Canada - Labor Day,,,
+421,98,02/09/2024,All Day,canada,,,Canada - Labor Day,,,
+422,98,02/09/2024,All Day,canada,,,Canada - Labor Day,,,
+423,98,02/09/2024,All Day,canada,,,Canada - Labor Day,,,
+424,216,02/09/2024,All Day,vietnam,,,Vietnam - National Day,,,
+425,216,02/09/2024,All Day,vietnam,,,Vietnam - National Day,,,
+426,505441,02/09/2024,04:30,australia,AUD,low,Company Profits Pre-Tax (QoQ)  (Q2),,,-8.4%
+427,505445,02/09/2024,04:30,australia,AUD,low,Private House Approvals  (Jul),,,-0.5%
+428,505447,02/09/2024,04:45,china,CNY,medium,Caixin Manufacturing PMI  (Aug),,,49.8
+429,505449,02/09/2024,07:00,indonesia,IDR,low,Core Inflation (YoY)  (Aug),,,1.95%
+430,505451,02/09/2024,07:00,indonesia,IDR,low,Inflation (MoM)  (Aug),,,-0.18%
+431,505450,02/09/2024,07:00,indonesia,IDR,low,Inflation (YoY)  (Aug),,,2.13%
+432,505452,02/09/2024,07:30,netherlands,EUR,low,Dutch Retail Sales (YoY)  (Jul),,,-2.4%
+433,505453,02/09/2024,08:00,india,INR,low,HSBC India Manufacturing PMI  (Aug),,,57.9
+434,506206,02/09/2024,09:00,united kingdom,GBP,medium,Nationwide HPI (YoY)  (Aug),,2.9%,2.1%
+435,506205,02/09/2024,09:00,united kingdom,GBP,medium,Nationwide HPI (MoM)  (Aug),,0.2%,0.3%
+436,505454,02/09/2024,09:00,russia,RUB,low,Russian S&P Global Manufacturing PMI  (Aug),,,53.6
+437,505458,02/09/2024,09:30,sweden,SEK,low,Manufacturing PMI  (Aug),,,49.2
+438,505459,02/09/2024,09:30,switzerland,CHF,low,Retail Sales (YoY)  (Jul),,,-2.2%
+439,506453,02/09/2024,09:30,australia,AUD,low,Commodity Prices (YoY)  (Aug),,,-3.0%
+440,505457,02/09/2024,09:30,hungary,HUF,low,Trade Balance (EUR) (MoM)  (Jun),,,"1,095.0M"
+441,505461,02/09/2024,10:00,poland,PLN,low,S&P Global Poland Manufacturing PMI  (Aug),,,47.30
+442,506454,02/09/2024,10:00,austria,EUR,low,Austrian GDP (QoQ)  (Q2),,,0.0%
+443,505460,02/09/2024,10:00,türkiye,TRY,medium,GDP (YoY)  (Q2),,,5.7%
+444,505462,02/09/2024,10:00,türkiye,TRY,low,Istanbul Chamber of Industry Turkey Manufacturing PMI  (Aug),,,47.20
+445,505463,02/09/2024,10:00,hungary,HUF,low,Manufacturing PMI  (Aug),,,49.2
+446,505464,02/09/2024,10:15,spain,EUR,medium,HCOB Spain Manufacturing PMI  (Aug),,,51.0
+447,505466,02/09/2024,10:30,switzerland,CHF,medium,procure.ch PMI  (Aug),,,43.5
+448,505465,02/09/2024,10:30,czech republic,CZK,low,S&P Global PMI  (Aug),,,43.8
+449,505469,02/09/2024,10:45,italy,EUR,medium,HCOB Italy Manufacturing PMI  (Aug),,,47.4
+450,505470,02/09/2024,10:50,france,EUR,medium,HCOB France Manufacturing PMI  (Aug),,,42.1
+451,505471,02/09/2024,10:55,germany,EUR,medium,HCOB Germany Manufacturing PMI  (Aug),,,42.1
+452,505473,02/09/2024,11:00,italy,EUR,low,Italian GDP (YoY)  (Q2),,,0.9%
+453,505476,02/09/2024,11:00,italy,EUR,low,Italian GDP (QoQ)  (Q2),,,0.2%
+454,505472,02/09/2024,11:00,greece,EUR,low,S&P Global Greece Manufacturing PMI  (Aug),,,53.2
+455,505474,02/09/2024,11:00,norway,NOK,low,Manufacturing PMI  (Aug),,,56.9
+456,505475,02/09/2024,11:00,euro zone,EUR,medium,HCOB Eurozone Manufacturing PMI  (Aug),,,45.6
+457,505477,02/09/2024,11:30,united kingdom,GBP,medium,S&P Global/CIPS UK Manufacturing PMI  (Aug),,,52.5
+458,505480,02/09/2024,12:00,italy,EUR,low,Italian PPI (YoY)  (Jul),,,-2.5%
+459,505481,02/09/2024,12:00,italy,EUR,low,Italian PPI (MoM)  (Jul),,,0.7%
+460,505478,02/09/2024,12:00,austria,EUR,low,Austrian Unemployment Change  (Aug),,,275.0K
+461,505479,02/09/2024,12:00,austria,EUR,low,Austrian Unemployment Rate  (Aug),,,6.4%
+462,506456,02/09/2024,12:00,south africa,ZAR,low,Manufacturing PMI  (Aug),,,52.4
+463,505483,02/09/2024,13:00,spain,EUR,low,Car Registration (YoY)  (Aug),,,3.40%
+464,505482,02/09/2024,13:00,spain,EUR,low,Car Registration (MoM)  (Aug),,,-18.70%
+465,506458,02/09/2024,13:00,ireland,EUR,low,Irish GDP (QoQ)  (Q2),,,1.2%
+466,506457,02/09/2024,13:00,ireland,EUR,low,Irish GDP (YoY)  (Q2),,,-1.4%
+467,506459,02/09/2024,13:00,ireland,EUR,low,Irish GNP (YoY)  (Q2),,,12.2%
+468,506460,02/09/2024,13:00,ireland,EUR,low,Irish GNP (QoQ)  (Q2),,,3.0%
+469,505484,02/09/2024,13:00,serbia,BAM,low,GDP (YoY)  (Q2),,,4.70%
+470,506461,02/09/2024,13:30,peru,PEN,low,CPI (MoM)  (Aug),,,0.24%
+471,506392,02/09/2024,14:25,brazil,BRL,low,BCB Focus Market Readout,,,
+472,505485,02/09/2024,15:00,czech republic,CZK,low,Budget Balance  (Aug),,,-192.300B
+473,505495,02/09/2024,15:30,chile,CLP,low,Economic Activity (YoY)  (Jul),,,0.1%
+474,506462,02/09/2024,15:30,south africa,ZAR,low,Total Vehicle Sales  (Aug),,,44.23K
+475,506421,02/09/2024,16:00,france,EUR,low,French 12-Month BTF Auction,,,2.999%
+476,506422,02/09/2024,16:00,france,EUR,low,French 3-Month BTF Auction,,,3.372%
+477,506423,02/09/2024,16:00,france,EUR,low,French 6-Month BTF Auction,,,3.285%
+478,505496,02/09/2024,16:00,brazil,BRL,low,S&P Global Manufacturing PMI  (Aug),,,54.0
+479,505497,02/09/2024,16:00,singapore,SGD,low,S&P Global Singapore PMI  (Aug),,,50.7
+480,505498,02/09/2024,16:30,canada,CAD,low,S&P Global Canada Manufacturing PMI  (Aug),,,47.8
+481,505500,02/09/2024,18:00,mexico,MXN,low,S&P Global Mexico Manufacturing PMI  (Aug),,,49.60
+482,506463,02/09/2024,19:00,italy,EUR,low,Italian Car Registration (YoY)  (Aug),,,4.7%
+483,506465,02/09/2024,19:00,belgium,EUR,low,Car Registration (YoY)  (Aug),,,-7.30%
+484,216,03/09/2024,All Day,vietnam,,,Vietnam - National Day,,,
+485,216,03/09/2024,All Day,vietnam,,,Vietnam - National Day,,,
+486,505504,03/09/2024,01:45,new zealand,NZD,low,Terms of Trade - Exports Prices  (Q2),,,-0.3%
+487,505503,03/09/2024,01:45,new zealand,NZD,low,Terms of Trade - Exports Volume (QoQ)  (Q2),,,6.3%
+488,505502,03/09/2024,01:45,new zealand,NZD,low,Terms of Trade - Imports Prices  (Q2),,,-5.1%
+489,505501,03/09/2024,01:45,new zealand,NZD,low,Terms of Trade Index (QoQ)  (Q2),,,5.1%
+490,506170,03/09/2024,02:00,south korea,KRW,low,CPI (MoM)  (Aug),,,0.3%
+491,506166,03/09/2024,02:00,south korea,KRW,low,CPI (YoY)  (Aug),,,2.6%
+492,505505,03/09/2024,02:01,united kingdom,GBP,medium,BRC Retail Sales Monitor (YoY)  (Aug),,,0.3%
+493,505506,03/09/2024,02:50,japan,JPY,low,Monetary Base (YoY)  (Aug),,,1.2%
+494,506466,03/09/2024,03:00,argentina,ARS,low,Tax Revenue  (Aug),,,"11,911.00B"
+495,505507,03/09/2024,04:30,australia,AUD,medium,Current Account  (Q2),,,-4.9B
+496,505508,03/09/2024,04:30,australia,AUD,low,Net Exports Contribution  (Q2),,,-0.9%
+497,505509,03/09/2024,07:15,saudi arabia,SAR,low,Riyad Bank Saudi Arabia Composite PMI  (Aug),,,54.4
+498,505516,03/09/2024,09:00,romania,RON,low,PPI (YoY)  (Jul),,,1.11%
+499,505518,03/09/2024,09:30,switzerland,CHF,low,CPI (YoY)  (Aug),,,1.3%
+500,505519,03/09/2024,09:30,switzerland,CHF,medium,CPI (MoM)  (Aug),,,-0.2%
+501,505517,03/09/2024,09:30,hungary,HUF,medium,GDP (YoY)  (Q2),,,1.5%
+502,505520,03/09/2024,09:45,france,EUR,low,French Government Budget Balance  (Jul),,,-103.5B
+503,505522,03/09/2024,10:00,switzerland,CHF,medium,GDP (QoQ)  (Q2),,,0.5%
+504,505529,03/09/2024,10:00,switzerland,CHF,medium,GDP (YoY)  (Q2),,,0.6%
+505,506467,03/09/2024,10:00,spain,EUR,medium,Spanish Unemployment Change  (Aug),,,-10.8K
+506,505521,03/09/2024,10:00,czech republic,CZK,low,Gross Wages (YoY)  (Q2),,,4.80%
+507,505528,03/09/2024,10:00,türkiye,TRY,low,"Turkey CPI Ex E,F,B,T&G (YoY)  (Aug)",,,60.2%
+508,505527,03/09/2024,10:00,türkiye,TRY,low,"Turkey CPI Ex E,F,B,T&G (MoM)  (Aug)",,,2.4%
+509,505525,03/09/2024,10:00,türkiye,TRY,medium,CPI (YoY)  (Aug),,,61.78%
+510,505523,03/09/2024,10:00,türkiye,TRY,medium,CPI (MoM)  (Aug),,,3.23%
+511,505524,03/09/2024,10:00,türkiye,TRY,low,PPI (MoM)  (Aug),,,1.94%
+512,505526,03/09/2024,10:00,türkiye,TRY,low,PPI (YoY)  (Aug),,,41.37%
+513,505530,03/09/2024,11:00,brazil,BRL,medium,IPC-Fipe Inflation Index (MoM)  (Aug),,,0.06%
+514,505535,03/09/2024,12:00,latvia,EUR,low,Latvian Current Account % of GDP  (Q2),,,-1.70%
+515,506468,03/09/2024,12:30,germany,EUR,low,German 2-Year Schatz Auction,,,2.380%
+516,505540,03/09/2024,12:30,south africa,ZAR,low,GDP (YoY)  (Q2),,,0.5%
+517,506469,03/09/2024,12:30,south africa,ZAR,medium,GDP Annualized (QoQ)  (Q2),,,-0.1%
+518,506470,03/09/2024,12:40,spain,EUR,low,Spanish 12-Month Letras Auction,,,2.954%
+519,506471,03/09/2024,12:40,spain,EUR,low,Spanish 6-Month Letras Auction,,,3.252%
+520,505541,03/09/2024,13:00,latvia,EUR,low,Latvian Industrial Production (MoM)  (Jul),,,-2.5%
+521,505542,03/09/2024,13:00,latvia,EUR,low,Latvian Industrial Production (YoY)  (Jul),,,-5.5%
+522,505544,03/09/2024,14:00,brazil,BRL,medium,GDP (QoQ)  (Q2),,,0.8%
+523,505543,03/09/2024,14:00,brazil,BRL,medium,GDP (YoY)  (Q2),,,2.5%
+524,505553,03/09/2024,15:00,mexico,MXN,low,Gross Fixed Investments (MoM)  (Jun),,,0.70%
+525,505551,03/09/2024,15:00,mexico,MXN,low,Gross Fixed Investments (YoY)  (Jun),,,6.00%
+526,505552,03/09/2024,15:00,mexico,MXN,low,Unemployment Rate  (Jul),,,2.70%
+527,505550,03/09/2024,15:00,mexico,MXN,low,Unemployment Rate n.s.a.  (Jul),,,2.80%
+528,506575,03/09/2024,15:00,new zealand,NZD,low,GlobalDairyTrade Price Index,,,5.5%
+529,506574,03/09/2024,15:00,new zealand,USD,low,Milk Auctions,,,"3,920.0"
+530,506472,03/09/2024,15:55,united states,USD,low,Redbook (YoY),,,5.0%
+531,506385,03/09/2024,16:30,canada,CAD,low,S&P Global Canada Manufacturing PMI  (Aug),,,47.8
+532,505555,03/09/2024,16:45,united states,USD,high,S&P Global US Manufacturing PMI  (Aug),,,48.0
+533,505557,03/09/2024,17:00,united states,USD,medium,Construction Spending (MoM)  (Jul),,,-0.3%
+534,505560,03/09/2024,17:00,united states,USD,medium,ISM Manufacturing Employment  (Aug),,,43.4
+535,505556,03/09/2024,17:00,united states,USD,low,ISM Manufacturing New Orders Index  (Aug),,,47.4
+536,505558,03/09/2024,17:00,united states,USD,high,ISM Manufacturing PMI  (Aug),,,46.8
+537,505559,03/09/2024,17:00,united states,USD,high,ISM Manufacturing Prices  (Aug),,,52.9
+538,506475,03/09/2024,17:00,united states,USD,low,Total Vehicle Sales  (Aug),,,15.80M
+539,506473,03/09/2024,17:10,united states,USD,low,IBD/TIPP Economic Optimism  (Sep),,,44.5
+540,505561,03/09/2024,18:00,denmark,DKK,low,Currency Reserves  (Aug),,,640.00B
+541,505562,03/09/2024,18:00,colombia,COP,low,Exports (YoY)  (Jul),,,-5.00%
+542,506424,03/09/2024,18:30,united states,USD,low,3-Month Bill Auction,,,4.980%
+543,506425,03/09/2024,18:30,united states,USD,low,6-Month Bill Auction,,,4.685%
+544,505563,04/09/2024,00:00,south korea,KRW,low,FX Reserves - USD  (Aug),,,413.51B
+545,506474,04/09/2024,00:00,chile,CLP,low,Interest Rate Decision,,5.50%,5.75%
+546,506164,04/09/2024,02:00,australia,AUD,low,AIG Construction Index  (Aug),,,-23.2
+547,506163,04/09/2024,02:00,australia,AUD,low,AIG Manufacturing Index  (Aug),,,-19.5
+548,505564,04/09/2024,03:01,ireland,EUR,low,AIB Ireland Services PMI  (Aug),,,53.6
+549,505566,04/09/2024,03:30,japan,JPY,medium,au Jibun Bank Japan Services PMI  (Aug),,,54.0
+550,505565,04/09/2024,03:30,hong kong,HKD,low,S&P Global Hong Kong Manufacturing PMI  (Aug),,,49.5
+551,506476,04/09/2024,03:30,vietnam,VND,low,S&P Global Vietnam Manufacturing PMI  (Aug),,,54.7
+552,505569,04/09/2024,04:30,australia,AUD,medium,GDP (YoY)  (Q2),,,1.1%
+553,505570,04/09/2024,04:30,australia,AUD,medium,GDP (QoQ)  (Q2),,,0.1%
+554,505571,04/09/2024,04:30,australia,AUD,low,GDP Capital Expenditure  (Q2),,,-0.9%
+555,505568,04/09/2024,04:30,australia,AUD,low,GDP Chain Price Index  (Q2),,,0.8%
+556,505567,04/09/2024,04:30,australia,AUD,low,GDP Final Consumption  (Q2),,,0.6%
+557,506477,04/09/2024,04:30,australia,AUD,low,MI Inflation Gauge (MoM)  (Aug),,,0.4%
+558,505572,04/09/2024,04:45,china,CNY,medium,Caixin Services PMI  (Aug),,,52.1
+559,505573,04/09/2024,07:15,united arab emirates,AED,low,S&P Global Composite PMI  (Aug),,,53.7
+560,505594,04/09/2024,08:00,india,INR,low,HSBC India Services PMI  (Aug),,,60.4
+561,505592,04/09/2024,08:00,estonia,EUR,low,Estonian Industrial Production (YoY)  (Jul),,,-3.10%
+562,505593,04/09/2024,08:00,estonia,EUR,low,Estonian Industrial Production (MoM)  (Jul),,,-3.60%
+563,505632,04/09/2024,09:00,sweden,SEK,low,Current Account  (Q2),,,115.9B
+564,505633,04/09/2024,09:00,russia,RUB,medium,Russian S&P Global Services PMI  (Aug),,,51.1
+565,505631,04/09/2024,09:00,norway,NOK,low,Current Account  (Q2),,,249.0B
+566,505634,04/09/2024,09:30,sweden,SEK,low,Services PMI (MoM)  (Aug),,,53.8
+567,505637,04/09/2024,10:15,spain,EUR,medium,HCOB Spain Services PMI  (Aug),,,53.9
+568,505636,04/09/2024,10:15,south africa,ZAR,low,S&P Global South Africa PMI  (Aug),,,49.3
+569,505639,04/09/2024,10:45,italy,EUR,low,HCOB Italy Composite PMI  (Aug),,,50.3
+570,505638,04/09/2024,10:45,italy,EUR,medium,HCOB Italy Services PMI  (Aug),,,51.7
+571,505642,04/09/2024,10:50,france,EUR,low,HCOB France Composite PMI  (Aug),,,52.7
+572,505643,04/09/2024,10:50,france,EUR,medium,HCOB France Services PMI  (Aug),,,55.0
+573,505645,04/09/2024,10:55,germany,EUR,low,HCOB Germany Composite PMI  (Aug),,,48.5
+574,505644,04/09/2024,10:55,germany,EUR,medium,HCOB Germany Services PMI  (Aug),,,51.4
+575,505646,04/09/2024,11:00,euro zone,EUR,medium,HCOB Eurozone Composite PMI  (Aug),,,51.2
+576,505647,04/09/2024,11:00,euro zone,EUR,medium,HCOB Eurozone Services PMI  (Aug),,,53.3
+577,505648,04/09/2024,11:30,united kingdom,GBP,medium,S&P Global/CIPS UK Composite PMI  (Aug),,,53.4
+578,505649,04/09/2024,11:30,united kingdom,GBP,medium,S&P Global/CIPS UK Services PMI  (Aug),,,53.3
+579,505656,04/09/2024,12:00,russia,RUB,low,Russian Forex Intervention  (Sep),,,24.7B
+580,505653,04/09/2024,12:00,norway,NOK,low,House Price Index (YoY)  (Aug),,,2.40%
+581,505654,04/09/2024,12:00,euro zone,EUR,low,PPI (MoM)  (Jul),,,0.5%
+582,505655,04/09/2024,12:00,euro zone,EUR,low,PPI (YoY)  (Jul),,,-3.2%
+583,506478,04/09/2024,13:00,ireland,EUR,low,Irish Unemployment  (Aug),,,4.7%
+584,506565,04/09/2024,14:00,united states,USD,low,MBA 30-Year Mortgage Rate,,,6.44%
+585,506566,04/09/2024,14:00,united states,USD,low,MBA Mortgage Applications (WoW),,,0.5%
+586,506567,04/09/2024,14:00,united states,USD,low,MBA Purchase Index,,,131.8
+587,506568,04/09/2024,14:00,united states,USD,low,Mortgage Market Index,,,226.9
+588,506569,04/09/2024,14:00,united states,USD,low,Mortgage Refinance Index,,,753.8
+589,505658,04/09/2024,14:00,austria,EUR,low,Austrian GDP (QoQ)  (Q2),,,
+590,506479,04/09/2024,14:30,india,INR,low,M3 Money Supply,,,10.3%
+591,505667,04/09/2024,15:00,brazil,BRL,low,Industrial Production (MoM)  (Jul),,,4.1%
+592,505668,04/09/2024,15:00,brazil,BRL,medium,Industrial Production (YoY)  (Jul),,,3.2%
+593,505666,04/09/2024,15:00,poland,PLN,medium,Interest Rate Decision  (Aug),,,5.75%
+594,506480,04/09/2024,15:30,united states,USD,medium,Exports  (Jul),,,265.90B
+595,506481,04/09/2024,15:30,united states,USD,medium,Imports  (Jul),,,339.00B
+596,505672,04/09/2024,15:30,united states,USD,medium,Trade Balance  (Jul),,,-73.10B
+597,505670,04/09/2024,15:30,canada,CAD,low,Exports  (Jul),,,66.65B
+598,505669,04/09/2024,15:30,canada,CAD,low,Imports  (Jul),,,66.01B
+599,505671,04/09/2024,15:30,canada,CAD,medium,Trade Balance  (Jul),,,0.64B
+600,505674,04/09/2024,16:00,brazil,BRL,low,S&P Global Composite PMI  (Aug),,,56.0
+601,505673,04/09/2024,16:00,brazil,BRL,low,S&P Global Services PMI  (Aug),,,56.4
+602,490101,04/09/2024,16:45,canada,CAD,high,BoC Interest Rate Decision,,,4.50%
+603,505676,04/09/2024,17:00,united states,USD,low,Durables Excluding Defense (MoM)  (Jul),,,10.4%
+604,505677,04/09/2024,17:00,united states,USD,low,Durables Excluding Transport (MoM)  (Jul),,,-0.2%
+605,505679,04/09/2024,17:00,united states,USD,medium,Factory Orders (MoM)  (Jul),,,-3.3%
+606,505675,04/09/2024,17:00,united states,USD,low,Factory orders ex transportation (MoM)  (Jul),,,0.1%
+607,505678,04/09/2024,17:00,united states,USD,high,JOLTs Job Openings  (Jul),,,8.184M
+608,506482,04/09/2024,17:30,canada,CAD,medium,BOC Press Conference,,,
+609,505680,04/09/2024,19:30,ireland,EUR,low,Irish Exchequer Returns  (Aug),,,3.400B
+610,506483,04/09/2024,21:00,united states,USD,medium,Beige Book,,,
+611,506484,04/09/2024,23:30,united states,USD,medium,API Weekly Crude Oil Stock,,,-3.400M
+612,506178,05/09/2024,02:00,south korea,KRW,low,GDP (YoY)  (Q2),,,2.3%
+613,506177,05/09/2024,02:00,south korea,KRW,low,GDP (QoQ)  (Q2),,,-0.2%
+614,505685,05/09/2024,02:30,japan,JPY,low,Overall wage income of employees  (Jul),,,4.5%
+615,505684,05/09/2024,02:30,japan,JPY,low,Overtime Pay (YoY)  (Jul),,,0.90%
+616,505686,05/09/2024,04:00,philippines,PHP,low,Core CPI (YoY)  (Aug),,,2.9%
+617,505687,05/09/2024,04:00,philippines,PHP,low,CPI (YoY)  (Aug),,,4.4%
+618,505688,05/09/2024,04:00,philippines,PHP,low,CPI (MoM)  (Aug),,,0.7%
+619,506486,05/09/2024,04:30,australia,AUD,low,Exports (MoM)  (Jul),,,1.7%
+620,506487,05/09/2024,04:30,australia,AUD,low,Imports (MoM)  (Jul),,,0.5%
+621,506488,05/09/2024,04:30,australia,AUD,medium,Trade Balance  (Jul),,,5.589B
+622,505690,05/09/2024,07:00,thailand,THB,low,Core CPI (YoY)  (Aug),,,0.52%
+623,505689,05/09/2024,07:00,thailand,THB,low,CPI (YoY)  (Aug),,,0.83%
+624,505694,05/09/2024,08:00,singapore,SGD,low,Retail Sales (YoY)  (Jul),,,-0.6%
+625,505695,05/09/2024,08:00,singapore,SGD,low,Retail Sales (MoM)  (Jul),,,-3.7%
+626,505698,05/09/2024,08:45,switzerland,CHF,low,Unemployment Rate n.s.a.  (Aug),,,2.3%
+627,505697,05/09/2024,08:45,switzerland,CHF,low,Unemployment Rate s.a.  (Aug),,,2.5%
+628,216,29/08/2024,All Day,slovakia,,,Slovakia - National Day,,,
+629,178,30/08/2024,All Day,kazakhstan,,,Kazakhstan - Constitution Day,,,
+630,188,30/08/2024,All Day,türkiye,,,Türkiye - Victory Day,,,
+631,290,30/08/2024,All Day,peru,,,Peru - Santa Rosa de Lima's Day,,,
+632,98,02/09/2024,All Day,united states,,,United States - Labor Day,,,
+633,98,02/09/2024,All Day,canada,,,Canada - Labor Day,,,
+634,98,02/09/2024,All Day,canada,,,Canada - Labor Day,,,
+635,98,02/09/2024,All Day,canada,,,Canada - Labor Day,,,
+636,98,02/09/2024,All Day,canada,,,Canada - Labor Day,,,
+637,216,02/09/2024,All Day,vietnam,,,Vietnam - National Day,,,
+638,216,02/09/2024,All Day,vietnam,,,Vietnam - National Day,,,
+639,216,03/09/2024,All Day,vietnam,,,Vietnam - National Day,,,
+640,216,03/09/2024,All Day,vietnam,,,Vietnam - National Day,,,
+641,505705,05/09/2024,09:00,germany,EUR,medium,German Factory Orders (MoM)  (Jul),,,3.9%
+642,505707,05/09/2024,09:30,hungary,HUF,low,Retail Sales (YoY)  (Jul),,,2.6%
+643,505706,05/09/2024,09:30,hungary,HUF,low,Trade Balance (EUR) (MoM)  (Jul),,,"1,001.0M"
+644,506157,05/09/2024,10:00,malaysia,MYR,medium,Interest Rate,,,3.00%
+645,505709,05/09/2024,10:00,czech republic,CZK,low,Retail Sales (YoY)  (Jul),,,1.8%
+646,505708,05/09/2024,10:00,czech republic,CZK,low,Retailles WDA (YoY)  (Jul),,,4.40%
+647,505710,05/09/2024,10:00,slovakia,EUR,low,Slovak GDP (YoY)  (Q2),,,1.9%
+648,505714,05/09/2024,10:30,italy,EUR,low,HCOB Italy Construction PMI (MoM)  (Aug),,,45.0
+649,505712,05/09/2024,10:30,germany,EUR,low,HCOB Germany Construction PMI  (Aug),,,40.0
+650,505711,05/09/2024,10:30,france,EUR,low,HCOB France Construction PMI (MoM)  (Aug),,,39.7
+651,505713,05/09/2024,10:30,euro zone,EUR,low,HCOB Eurozone Construction PMI (MoM)  (Aug),,,41.4
+652,505716,05/09/2024,11:00,taiwan,TWD,low,CPI NSA (MoM)  (Aug),,,0.19%
+653,505715,05/09/2024,11:00,taiwan,TWD,low,CPI (YoY)  (Aug),,,2.52%
+654,505717,05/09/2024,11:00,taiwan,TWD,low,CPI (MoM)  (Aug),,,0.09%
+655,505718,05/09/2024,11:20,taiwan,TWD,low,FX Reserves USD  (Aug),,,571.74B
+656,505721,05/09/2024,11:30,united kingdom,GBP,medium,S&P Global / CIPS UK Construction PMI  (Aug),,,55.3
+657,506507,05/09/2024,12:00,united kingdom,GBP,low,5-Year Treasury Gilt Auction,,,3.854%
+658,506505,05/09/2024,12:00,france,EUR,low,French 10-Year OAT Auction,,,3.01%
+659,506506,05/09/2024,12:00,france,EUR,low,French 30-Year OAT Auction,,,3.49%
+660,505722,05/09/2024,12:00,greece,EUR,low,Greek Quarterly Unemployment Rate  (Q2),,,12.1%
+661,505726,05/09/2024,12:00,euro zone,EUR,low,Retail Sales (YoY)  (Jul),,,-0.3%
+662,505725,05/09/2024,12:00,euro zone,EUR,low,Retail Sales (MoM)  (Jul),,,-0.3%
+663,505723,05/09/2024,12:00,south africa,ZAR,low,Current Account  (Q2),,,-84.6B
+664,505724,05/09/2024,12:00,south africa,ZAR,low,Current Account % of GDP  (Q2),,,-1.20%
+665,506509,05/09/2024,12:15,france,EUR,low,French Car Registration (YoY)  (Jul),,,-4.8%
+666,506510,05/09/2024,14:00,israel,ILS,low,FX Reserve - USD  (Aug),,,213.634B
+667,505727,05/09/2024,14:30,united states,USD,low,Challenger Job Cuts  (Aug),,,25.885K
+668,506399,05/09/2024,14:30,türkiye,TRY,low,Gross FX Reserves,,,
+669,505728,05/09/2024,15:15,united states,USD,high,ADP Nonfarm Employment Change  (Aug),,,122K
+670,506394,05/09/2024,15:30,united states,USD,medium,Continuing Jobless Claims,,,
+671,506393,05/09/2024,15:30,united states,USD,high,Initial Jobless Claims,,,
+672,506395,05/09/2024,15:30,united states,USD,low,Jobless Claims 4-Week Avg.,,,
+673,505730,05/09/2024,15:30,united states,USD,medium,Nonfarm Productivity (QoQ)  (Q2),,,2.3%
+674,505731,05/09/2024,15:30,united states,USD,medium,Unit Labor Costs (QoQ)  (Q2),,,0.9%
+675,505729,05/09/2024,15:30,canada,CAD,medium,Labor Productivity (QoQ)  (Q2),,,-0.3%
+676,505733,05/09/2024,16:45,united states,USD,medium,S&P Global Composite PMI  (Aug),,,54.1
+677,505732,05/09/2024,16:45,united states,USD,high,S&P Global Services PMI  (Aug),,,55.2
+678,505738,05/09/2024,17:00,united states,USD,low,ISM Non-Manufacturing Business Activity  (Aug),,,54.5
+679,505735,05/09/2024,17:00,united states,USD,medium,ISM Non-Manufacturing Employment  (Aug),,,51.1
+680,505737,05/09/2024,17:00,united states,USD,low,ISM Non-Manufacturing New Orders  (Aug),,,52.4
+681,505734,05/09/2024,17:00,united states,USD,high,ISM Non-Manufacturing PMI  (Aug),,,51.4
+682,505736,05/09/2024,17:00,united states,USD,high,ISM Non-Manufacturing Prices  (Aug),,,57.0
+683,506398,05/09/2024,17:00,united states,USD,low,Natural Gas Storage,,,
+684,506397,05/09/2024,18:25,united states,USD,low,8-Week Bill Auction,,,
+685,506396,05/09/2024,18:30,united states,USD,low,4-Week Bill Auction,,,
+686,506232,05/09/2024,20:00,egypt,EGP,low,Interest Rate Decision,,,27.25%
+687,506231,05/09/2024,20:00,egypt,EGP,low,Overnight Lending Rate,,,28.25%
+688,505750,05/09/2024,21:00,brazil,BRL,low,Trade Balance  (Aug),,,7.64B
+689,328,06/09/2024,All Day,bulgaria,,,Bulgaria - Unification Day,,,
+690,506171,06/09/2024,02:00,south korea,KRW,low,Current Account  (Jul),,,12.26B
+691,505752,06/09/2024,02:30,japan,JPY,medium,Household Spending (YoY)  (Jul),,,-1.4%
+692,505751,06/09/2024,02:30,japan,JPY,medium,Household Spending (MoM)  (Jul),,,0.1%
+693,506511,06/09/2024,02:50,japan,JPY,low,Foreign Reserves (USD),,,"1,219.1B"
+694,506512,06/09/2024,04:30,australia,AUD,medium,Home Loans (MoM)  (Jul),,,0.5%
+695,506513,06/09/2024,04:30,australia,AUD,low,Invest Housing Finance (MoM)  (Jul),,,2.7%
+696,506514,06/09/2024,05:00,philippines,PHP,low,Industrial Production (YoY),,,2.2%
+697,505756,06/09/2024,07:00,indonesia,IDR,low,FX Reserves (USD)  (Aug),,,145.40B
+698,505757,06/09/2024,07:30,netherlands,EUR,low,Dutch Consumer Spending  (Jul),,,-0.7%
+699,505767,06/09/2024,08:00,japan,JPY,low,Coincident Indicator (MoM)  (Jul),,,-3.9%
+700,505768,06/09/2024,08:00,japan,JPY,low,Leading Index (MoM)  (Jul),,,-2.1%
+701,506515,06/09/2024,08:00,japan,JPY,low,Leading Index  (Jul),,,109.0
+702,505766,06/09/2024,08:00,estonia,EUR,low,Estonian CPI (MoM)  (Aug),,,0.30%
+703,505765,06/09/2024,08:00,estonia,EUR,low,Estonian CPI (YoY)  (Aug),,,3.40%
+704,506516,06/09/2024,08:30,france,EUR,low,French Non-Farm Payrolls (QoQ),,,0.0%
+705,505775,06/09/2024,09:00,united kingdom,GBP,medium,Halifax House Price Index (MoM)  (Aug),,,0.8%
+706,505781,06/09/2024,09:00,united kingdom,GBP,medium,Halifax House Price Index (YoY)  (Aug),,,2.3%
+707,505778,06/09/2024,09:00,germany,EUR,low,German Exports (MoM)  (Jul),,,-3.4%
+708,505776,06/09/2024,09:00,germany,EUR,low,German Imports (MoM)  (Jul),,,0.3%
+709,505788,06/09/2024,09:00,germany,EUR,medium,German Industrial Production (MoM)  (Jul),,,1.4%
+710,505783,06/09/2024,09:00,germany,EUR,medium,German Trade Balance  (Jul),,,20.4B
+711,505780,06/09/2024,09:00,germany,EUR,low,German Industrial Production (YoY)  (Jul),,,-3.92%
+712,505779,06/09/2024,09:00,denmark,DKK,low,Industrial Production (MoM)  (Jul),,,0.1%
+713,505777,06/09/2024,09:00,norway,NOK,low,Manufacturing Production (MoM)  (Jul),,,1.4%
+714,505782,06/09/2024,09:00,finland,EUR,low,Finnish Trade Balance  (Jul),,,1.00B
+715,505784,06/09/2024,09:00,lithuania,EUR,low,Lithuania Trade Balance  (Jul),,,-0.41B
+716,505785,06/09/2024,09:00,romania,RON,low,GDP (YoY)  (Q2),,,0.8%
+717,505787,06/09/2024,09:00,south africa,ZAR,low,Foreign Reserves (USD)  (Aug),,,62.27B
+718,505786,06/09/2024,09:00,south africa,ZAR,low,Net FX Reserves  (USD)  (Aug),,,59.165B
+719,505789,06/09/2024,09:30,hungary,HUF,low,Industrial Output (YoY)  (Jul),,,-8.2%
+720,505793,06/09/2024,09:45,france,EUR,low,French Current Account  (Jul),,,-2.60B
+721,505794,06/09/2024,09:45,france,EUR,low,French Exports  (Jul),,,51.7B
+722,505795,06/09/2024,09:45,france,EUR,low,French Imports  (Jul),,,57.7B
+723,505791,06/09/2024,09:45,france,EUR,low,French Industrial Production (MoM)  (Jul),,,0.8%
+724,505790,06/09/2024,09:45,france,EUR,low,French Reserve Assets Total  (Aug),,,"252,082.0M"
+725,505792,06/09/2024,09:45,france,EUR,low,French Trade Balance  (Jul),,,-6.1B
+726,505803,06/09/2024,10:00,switzerland,CHF,low,Foreign Reserves (USD)  (Aug),,,"703,510.0B"
+727,505797,06/09/2024,10:00,austria,EUR,low,Austrian Trade Balance  (Jun),,,2.5M
+728,505796,06/09/2024,10:00,austria,EUR,low,Austrian Wholesale Prices n.s.a (YoY)  (Aug),,,1.4%
+729,505798,06/09/2024,10:00,austria,EUR,low,Austrian Wholesale Prices n.s.a (MoM)  (Aug),,,0.5%
+730,506517,06/09/2024,10:00,czech republic,CZK,low,Construction Output (YoY)  (Jul),,,-10.2%
+731,505801,06/09/2024,10:00,czech republic,CZK,low,Industrial Production (YoY)  (Jul),,,-3.4%
+732,505802,06/09/2024,10:00,czech republic,CZK,low,Trade Balance NRA  (Jul),,,29.3B
+733,505799,06/09/2024,10:00,slovakia,EUR,low,Slovak Trade Balance  (Jul),,,647.4M
+734,505805,06/09/2024,11:00,italy,EUR,low,Italian Retail Sales (YoY)  (Jul),,,-1.0%
+735,505806,06/09/2024,11:00,italy,EUR,low,Italian Retail Sales (MoM)  (Jul),,,-0.2%
+736,505804,06/09/2024,11:00,mauritius,MUR,low,CPI (YoY)  (Aug),,,2.70%
+737,506518,06/09/2024,11:30,hong kong,HKD,low,Foreign Reserves (USD)  (Aug),,,419.30B
+738,506522,06/09/2024,12:00,united kingdom,GBP,medium,Mortgage Rate (GBP)  (Aug),,,7.98%
+739,506521,06/09/2024,12:00,singapore,SGD,low,Foreign Reserves USD (MoM)  (Aug),,,378.6B
+740,505810,06/09/2024,12:00,philippines,PHP,low,FX Reserves USD  (Aug),,,105.65B
+741,506520,06/09/2024,12:00,greece,EUR,low,Greek GDP (YoY)  (Q2),,,2.1%
+742,505811,06/09/2024,12:00,euro zone,EUR,low,Employment Change (QoQ)  (Q2),,,0.2%
+743,505809,06/09/2024,12:00,euro zone,EUR,low,Employment Change (YoY)  (Q2),,,0.8%
+744,505808,06/09/2024,12:00,euro zone,EUR,low,Employment Overall  (Q2),,,"168,403.5K"
+745,505807,06/09/2024,12:00,euro zone,EUR,medium,GDP (QoQ)  (Q2),,,0.3%
+746,506519,06/09/2024,12:00,euro zone,EUR,medium,GDP (YoY)  (Q2),,0.6%,0.5%
+747,506528,06/09/2024,12:00,hungary,HUF,low,Budget Balance  (Aug),,,213.0B
+748,506523,06/09/2024,14:00,chile,CLP,low,Core CPI (MoM)  (Aug),,,0.7%
+749,505812,06/09/2024,14:00,brazil,BRL,low,IGP-DI Inflation Index (MoM)  (Aug),,,0.83%
+750,506524,06/09/2024,14:30,india,INR,low,Bank Loan Growth,,,
+751,506525,06/09/2024,14:30,india,INR,low,Deposit Growth,,,
+752,506526,06/09/2024,14:30,india,INR,low,"FX Reserves, USD",,,
+753,505814,06/09/2024,15:00,chile,CLP,low,CPI (MoM)  (Aug),,,0.7%
+754,505817,06/09/2024,15:30,united states,USD,high,Average Hourly Earnings (MoM)  (Aug),,,0.2%
+755,505826,06/09/2024,15:30,united states,USD,medium,Average Hourly Earnings (YoY) (YoY)  (Aug),,,3.6%
+756,505824,06/09/2024,15:30,united states,USD,low,Average Weekly Hours  (Aug),,,34.2
+757,505821,06/09/2024,15:30,united states,USD,low,Government Payrolls  (Aug),,,17.0K
+758,505820,06/09/2024,15:30,united states,USD,low,Manufacturing Payrolls  (Aug),,,1K
+759,505819,06/09/2024,15:30,united states,USD,high,Nonfarm Payrolls  (Aug),,,114K
+760,505827,06/09/2024,15:30,united states,USD,medium,Participation Rate  (Aug),,,62.7%
+761,505818,06/09/2024,15:30,united states,USD,medium,Private Nonfarm Payrolls  (Aug),,,97K
+762,505829,06/09/2024,15:30,united states,USD,medium,U6 Unemployment Rate  (Aug),,,7.8%
+763,505825,06/09/2024,15:30,united states,USD,high,Unemployment Rate  (Aug),,,4.3%
+764,505830,06/09/2024,15:30,canada,CAD,low,Avg hourly wages Permanent employee  (Aug),,,5.2%
+765,505828,06/09/2024,15:30,canada,CAD,medium,Employment Change  (Aug),,,-2.8K
+766,505816,06/09/2024,15:30,canada,CAD,low,Full Employment Change  (Aug),,,61.6K
+767,505815,06/09/2024,15:30,canada,CAD,low,Part Time Employment Change  (Aug),,,-64.4K
+768,505822,06/09/2024,15:30,canada,CAD,low,Participation Rate  (Aug),,,65.0%
+769,505823,06/09/2024,15:30,canada,CAD,medium,Unemployment Rate  (Aug),,,6.4%
+770,505831,06/09/2024,16:00,poland,PLN,low,FX Reserves (EUR)  (Aug),,,198.04B
+771,506527,06/09/2024,16:00,ukraine,UAH,low,Foreign Reserves (USD)  (Aug),,,37.20B
+772,505834,06/09/2024,17:00,canada,CAD,low,Ivey PMI n.s.a  (Aug),,,55.3
+773,505833,06/09/2024,17:00,canada,CAD,medium,Ivey PMI  (Aug),,,57.6
+774,505835,06/09/2024,17:30,türkiye,TRY,low,Treasury Cash Balance  (Aug),,,-136.515B
+775,506529,06/09/2024,18:00,egypt,EGP,low,Foreign Reserves (USD)  (Aug),,,46.49B
+776,506400,06/09/2024,20:00,united states,USD,medium,U.S. Baker Hughes Oil Rig Count,,,
+777,506401,06/09/2024,20:00,united states,USD,medium,U.S. Baker Hughes Total Rig Count,,,
+778,506168,07/09/2024,02:00,colombia,COP,low,CPI (YoY)  (Aug),,,6.86%
+779,506173,07/09/2024,02:00,colombia,COP,low,CPI (MoM)  (Aug),,,0.20%
+780,506531,07/09/2024,06:00,china,CNY,medium,Exports (YoY)  (Aug),,,7.0%
+781,506532,07/09/2024,06:00,china,CNY,medium,Imports (YoY)  (Aug),,,7.2%
+782,506530,07/09/2024,06:00,china,CNY,medium,Trade Balance (USD)  (Aug),,,84.65B
+783,505858,07/09/2024,11:00,china,CNY,low,FX Reserves (USD)  (Aug),,,3.256T
+784,216,29/08/2024,All Day,slovakia,,,Slovakia - National Day,,,
+785,178,30/08/2024,All Day,kazakhstan,,,Kazakhstan - Constitution Day,,,
+786,188,30/08/2024,All Day,türkiye,,,Türkiye - Victory Day,,,
+787,290,30/08/2024,All Day,peru,,,Peru - Santa Rosa de Lima's Day,,,
+788,98,02/09/2024,All Day,united states,,,United States - Labor Day,,,
+789,98,02/09/2024,All Day,canada,,,Canada - Labor Day,,,
+790,98,02/09/2024,All Day,canada,,,Canada - Labor Day,,,
+791,98,02/09/2024,All Day,canada,,,Canada - Labor Day,,,
+792,98,02/09/2024,All Day,canada,,,Canada - Labor Day,,,
+793,216,02/09/2024,All Day,vietnam,,,Vietnam - National Day,,,
+794,216,02/09/2024,All Day,vietnam,,,Vietnam - National Day,,,
+795,216,03/09/2024,All Day,vietnam,,,Vietnam - National Day,,,
+796,216,03/09/2024,All Day,vietnam,,,Vietnam - National Day,,,
+797,328,06/09/2024,All Day,bulgaria,,,Bulgaria - Unification Day,,,
