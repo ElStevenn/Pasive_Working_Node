@@ -74,12 +74,15 @@ async def create_alert(request: Request, request_data: CreateAlert, background_t
             user_id=request_data.user_id,
             alert_name=request_data.event_name,
             previous_value=previous_value,
+            zone=request_data.zone,
             event_execution=datetime_execution,
             alert_id=alert_id,
             timezone=client_timezone
         )
 
-        
+        if response["status"] == "success":
+            await crud.set_alet_as_created(schedule_id=response["task_id"], alert_id=alert_id)
+
         return response
     except KeyError:
         # Event doesn't exist

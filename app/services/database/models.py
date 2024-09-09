@@ -76,11 +76,12 @@ class EconomicCalendarAlerts(Base):
 
     id = Column(pgUUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
     user_id = Column(String(255), ForeignKey('user.id'), nullable=False)
+    schedule_id = Column(pgUUID(as_uuid=True), nullable=True)
     status = Column(String(255), default="pending")
     alert_name = Column(String(255))
     zone = Column(String(255))
     previous_value = Column(String(255))
-    value = Column(String(255), nullable=True, default=None) 
+    value = Column(String(255), nullable=True, default=None)
     event_execution = Column(DateTime)
     timezone = Column(String(255))
 

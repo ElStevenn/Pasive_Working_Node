@@ -30,6 +30,13 @@ async def economic_calendar_():
         content = await f.read()
     return HTMLResponse(content) 
 
+@app.get("/cucker_laverage", response_class=HTMLResponse, include_in_schema=False)
+async def laverage_cuck_page():
+    path = os.path.join(os.getcwd(), "mini_frontend/leverage_cuck.html")
+    async with aiofiles.open(path) as f:
+        content = await f.read()
+    return HTMLResponse(content)
+
 """Call each route"""
 app.include_router(CVI.router, prefix="")
 app.include_router(fear_greed.router, prefix="")

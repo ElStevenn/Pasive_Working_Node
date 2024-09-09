@@ -279,7 +279,7 @@ async def create_new_alert(session: AsyncSession, user_id: str, alert_name: str,
     """Create new alert as created"""
     new_alert = EconomicCalendarAlerts(
         user_id=user_id,
-        status="created",
+        status="scheduled",
         alert_name=alert_name,
         zone=zone,
         previous_value=previous_value,
@@ -290,6 +290,19 @@ async def create_new_alert(session: AsyncSession, user_id: str, alert_name: str,
     await session.flush()
 
     return str(new_alert.id)
+
+
+@db_connection
+async def set_alet_as_created(session: AsyncSession, schedule_id, alert_id):
+    """set alert as created"""
+    res = await session.execute(
+        update(EconomicCalendarAlerts)
+        .where(EconomicCalendarAlerts.id == alert_id)
+        .values(schedule_id=schedule_id, status="created")
+    )
+
+    await session.commit()
+    return res.rowcount
 
 @db_connection
 async def set_alert_as_executed(session: AsyncSession, alert_id: str, value: str):

@@ -171,8 +171,10 @@ class EconomicCalendarData():
 
         df_10_days.to_csv("delete_this.csv")  # Debugging purpose
 
-        # Filter rows based on event name, replace double spaces
+
         row = df_10_days[df_10_days['event'].str.replace("  ", " ") == event_name]
+        if row.empty:
+            row = df_10_days[df_10_days['event'] == event_name]
         
         if zone:
             # Further filter by zone if provided
@@ -194,8 +196,8 @@ class EconomicCalendarData():
         date_execution = row['date']
 
         # Check 'actual' value and raise exception if None
-        if row['actual'] is None:
-            raise HTTPException(status_code=400, detail=f"The time has expired, and couldn't be scheduled, the final value was {row['actual']}")
+        if row['actual'] is not None:
+            raise HTTPException(status_code=400, detail=f"The time has expired ({time_execution}), and couldn't be scheduled, the final value was {row['actual']}")
 
         if not isinstance(previous_value, str):
             previous_value = "NaN"
@@ -225,10 +227,18 @@ class EconomicCalendarData():
 async def main():
     economic_calendar = EconomicCalendarData()
     
+    event = "Irish Retail Sales (YoY)  (Jul)"
+    zone = "ireland"; timezone = "Europe/Amsterdam"
+
+    res = economic_calendar.get_event_execution_and_previous_value(event_name=event, timezone=timezone, zone=zone)
+
+    print(res)
+
+    """
     execution = datetime.now() + timedelta(minutes=60)
     res = await economic_calendar.create_alert_datetime("user_id", "alert_name", "previous_value", "zone", execution, "alert_id", "Europe/Amsterdam")
     print(res)
-
+    """
 
 
 if __name__ == "__main__":

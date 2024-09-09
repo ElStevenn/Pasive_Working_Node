@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cucker Laverage - Fun Financial Freedom</title>
+    <style>
+        body {
+            font-family: 'Comic Sans MS', cursive;
+            margin: 0;
+            padding: 0;
+            background-color: #1a1a1a; /* Dark background */
+            color: #f1f1f1; /* Light text for contrast */
+            text-align: center;
+            overflow-x: hidden;
+        }
+
+        h1 {
+            font-size: 4em;
+            color: #ff69b4; /* Hot pink color */
+            margin: 30px 0;
+            text-shadow: 3px 3px #ff4500; /* Red shadow for a 3D effect */
+            animation: neon-flicker 1.5s infinite alternate;
+        }
+
+        @keyframes neon-flicker {
+            0%, 100% { text-shadow: 0 0 5px #ff69b4, 0 0 10px #ff4500, 0 0 20px #ff4500; }
+            50% { text-shadow: 0 0 20px #ff69b4, 0 0 30px #ff4500, 0 0 40px #ff4500; }
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            margin: 40px 0;
+        }
+
+        .gallery img {
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 20px;
+            box-shadow: 0 8px 15px rgba(255, 105, 180, 0.7); /* Pink glow */
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .gallery img:hover {
+            transform: scale(1.1);
+            box-shadow: 0 12px 25px rgba(255, 69, 0, 0.8); /* Redder glow on hover */
+        }
+
+        .section {
+            margin: 40px 0;
+            padding: 30px;
+            background-color: #333; /* Dark section background */
+            border-radius: 25px;
+            box-shadow: 0 0 15px rgba(255, 105, 180, 0.4); /* Pink border glow */
+        }
+
+        .section h2 {
+            font-size: 2.5em;
+            color: #00ff7f; /* Bright green color */
+            text-shadow: 2px 2px #ffa500; /* Orange shadow */
+        }
+
+        .section p {
+            font-size: 1.5em;
+            color: #ddd; /* Light text color for readability */
+            line-height: 1.6;
+        }
+
+        .section ul {
+            list-style: none;
+            padding: 0;
+            text-align: left;
+            color: #f1f1f1;
+        }
+
+        .section li {
+            font-size: 1.3em;
+            margin: 8px 0;
+        }
+
+        .button {
+            margin-top: 20px;
+            padding: 15px 30px;
+            font-size: 1.3em;
+            color: #fff;
+            background-color: #9400d3; /* Purple button */
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: transform 0.3s ease, background-color 0.3s ease;
+            box-shadow: 0 0 10px #ff1493; /* Pink glow effect */
+        }
+
+        .button:hover {
+            transform: scale(1.1) rotate(-5deg);
+            background-color: #ff1493; /* Hot pink on hover */
+        }
+
+        .home-button {
+            margin: 30px auto;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            color: #fff;
+            background-color: #00ced1; /* Dark turquoise button */
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            transition: transform 0.3s ease, background-color 0.3s ease;
+            text-decoration: none;
+            box-shadow: 0 0 10px #00ff7f; /* Green glow */
+        }
+
+        .home-button:hover {
+            transform: scale(1.05) rotate(5deg);
+            background-color: #32cd32; /* Lime green on hover */
+        }
+
+        .home-button img {
+            width: 20px;
+            height: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Cucker Laverage</h1>
+
+    <div class="container">
+        <div class="gallery">
+            <img src="https://images.ecestaticos.com/l-1dHbWUbSkVmucBgEceV-N-DAw=/140x0:1521x777/1440x810/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2b8%2F6c3%2F9cf%2F2b86c39cf86ddd74bb0db7aa058c3939.jpg" alt="Funny Meme 1">
+            <img src="https://i.pinimg.com/564x/1e/53/dd/1e53dd8565350f82a20016c9baca4f70.jpg" alt="Funny Meme 2">
+            <img src="https://i2-prod.mirror.co.uk/incoming/article30760257.ece/ALTERNATES/s615b/0_nstaapp_25009872_414613918957577_5799593824116277248_n_1080.jpg" alt="Funny Meme 3">
+            <img src="https://content.imageresizer.com/images/memes/funny-animals-meme-10.jpg" alt="Funny Meme 4">
+        </div>
+
+        <div class="section">
+            <h2>Unleash Your Inner Wild Side!</h2>
+            <p>Why play it safe when you can turn life into a thrilling adventure? Dive into a world where fun meets fortune, and let your charisma lead the way! Dare to be bold, fearless, and unapologetically fabulous – because life's too short for anything less!</p>
+        </div>
+        
+
+        <div class="section">
+            <h2>General Profit and Loos!</h2>
+            <p>Keep track of how much fun and money you're making!</p>
+            <div id="chart" style="width: 100%; height: 400px; background-color: #222; border: 2px solid #ff69b4; border-radius: 10px;"></div>
+        </div>
+
+        <div class="section">
+            <h2>Crazy Investment Tips!</h2>
+            <p>Did you know that investing in yourself is the best thing you can do? Here are some fun tips:</p>
+            <ul>
+                <li>Invest in hobbies that make you smile.</li>
+                <li>Try out new things without fear!</li>
+                <li>Remember, laughter is the best return on investment!</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Stay Updated!</h2>
+            <p>Subscribe to our newsletter to receive the latest fun-filled investment tips and updates!</p>
+            <button class="button">Subscribe Now</button>
+        </div>
+
+        <div class="home-button-container">
+            <a href="#" class="home-button">
+                <img src="https://img.icons8.com/fluent/48/000000/home.png" alt="Home Icon"> Go Back to Home
+            </a>
+        </div>
+    </div>
+</body>
+</html>
